@@ -10,7 +10,7 @@ role: Masters Student in Institut Teknologi Sepuluh Nopember
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institu Teknologi Sepuluh Nopember
+  - name: Institut Teknologi Sepuluh Nopember
     url: https://www.its.ac.id/
 
 # Short bio (displayed in user profile at end of posts)
@@ -43,23 +43,23 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DanilyanEdo
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/danilyanedo7
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/edo-danilyan-6a418b182
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -68,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Edo Danilyan is a masters student in Institut Teknologi Sepuluh Nopember. His research interests include micrology, biotechnology and applied bioinformatics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His expertise includes project design and management, data analysis and interpretation, and the development and implementation of research tools. He enjoy generating new ideas and devising feasible solutions to broadly relevant problems. His colleagues would describe him as a dynamic, resourceful individual who maintains a positive, proactive attitude when faced with adversity.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
