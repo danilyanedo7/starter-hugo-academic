@@ -27,16 +27,16 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['5']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: -
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: -
+summary: 
 
 tags: []
 
@@ -45,10 +45,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: Custom Link
-   url: https://www.researchgate.net/publication/354492714_BAKTERIOLOGI_SPESIES_KOSMOPOLIT
+# -name: Custom Link
+#  url: https://www.researchgate.net/publication/354492714_BAKTERIOLOGI_SPESIES_KOSMOPOLIT
 
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/publication/354492714_BAKTERIOLOGI_SPESIES_KOSMOPOLIT'
 url_code: ''
 url_dataset: ''
 url_poster: ''
