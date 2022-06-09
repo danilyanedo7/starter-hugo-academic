@@ -103,7 +103,9 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-
+  icon:
+   pack:
+    ai: true
 # Security
 
 security:

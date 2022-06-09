@@ -30,8 +30,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['5']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *SINTA*
+publication_short: In *SINTA*
 
 abstract: 
 
