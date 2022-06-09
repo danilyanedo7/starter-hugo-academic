@@ -24,7 +24,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: Portrait, landscape, architecture, interior, and product photographhy
+  - description: Portrait, landscape, architecture, interior, and product
     icon: camera-retro
     icon_pack: fas
     name: Photography
