@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,4 +72,4 @@ Edo Danilyan is a masters student in Institut Teknologi Sepuluh Nopember. His re
 
 His expertise includes project design and management, data analysis and interpretation, and the development and implementation of research tools. He enjoy generating new ideas and devising feasible solutions to broadly relevant problems. His colleagues would describe him as a dynamic, resourceful individual who maintains a positive, proactive attitude when faced with adversity.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
