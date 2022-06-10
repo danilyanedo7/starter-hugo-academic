@@ -30,7 +30,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-{{< figure library="true" src="talknih.jpg" title="" >}}
+
 image: 
   caption: ''
   focal_point: Right
