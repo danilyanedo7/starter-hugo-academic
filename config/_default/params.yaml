@@ -104,8 +104,8 @@ extensions:
   academicons:
     enable: true
   icon:
-   icon_pack:
-    ai: true
+    pack:
+      ai: true
 # Security
 
 security:
