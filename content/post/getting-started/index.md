@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Data visualization portofolio 
+subtitle: Data visualization using ggplot2 and plotly
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome to my visualization gallery. In this post, I posted several visualization that i created during my undergraduate study. 
 
 # Link this post with a project
 projects: []
