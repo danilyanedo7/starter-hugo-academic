@@ -105,7 +105,7 @@ extensions:
     enable: true
   icon:
    icon_pack:
-   ai: true
+    ai: true
 # Security
 
 security:
