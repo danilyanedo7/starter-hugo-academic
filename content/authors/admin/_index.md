@@ -72,4 +72,4 @@ Edo Danilyan is a masters student in Institut Teknologi Sepuluh Nopember. His re
 
 His expertise includes project design and management, data analysis and interpretation, and the development and implementation of research tools. He enjoy generating new ideas and devising feasible solutions to broadly relevant problems. His colleagues would describe him as a dynamic, resourceful individual who maintains a positive, proactive attitude when faced with adversity.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
