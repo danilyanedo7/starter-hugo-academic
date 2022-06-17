@@ -80,12 +80,4 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+This book is in Bahasa Indonesia. The contents of this book include general characteristic of bacteria, the significance and relevanvcy of E. coli, P. aeruginosa, Bacillus sp., and S. aureus. This book covers the mechanism of quorum sensing, protein secretion, cell division, immunity, pathogenicity, antibiotic resistance, and antibiotic production. 
