@@ -45,7 +45,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
--name: Custom Link
+name: Custom Link
   url: https://www.researchgate.net/publication/354492714_BAKTERIOLOGI_SPESIES_KOSMOPOLIT
 
 url_pdf: 'https://www.researchgate.net/publication/354492714_BAKTERIOLOGI_SPESIES_KOSMOPOLIT'
