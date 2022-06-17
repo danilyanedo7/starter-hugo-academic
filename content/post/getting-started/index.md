@@ -46,8 +46,19 @@ categories:
 3. I am able to work with many types of datasets and many types of chart including scatter plot, bar plot, box plot, line plot, heatmap, venn diagram, density plot, violoin plot, ridgeline, bubble plot, lollipop, tree map, dendogram, area, sankey plot, 3d modelling, interactive plot and animated plot
 4. This portofolio contains time series visualization, inferencial statistics, distribution and geospatial visualization. 
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 ## Gallery
 
+![Histogram](/histogram.jpeg 'Histogram')
+![Line Chart](/lineplot.png 'Line Chart')
+![Line Chart 2](/lineplot2.jpeg 'Line Chart 2')
+![Dendogram](/dendogram.png 'Dendogram')
+![Sequence](/sequence.png 'Dendogram Sequence Analysis')
+![Dendogram Heatmap](/dendogramheat.jpeg 'Dendogram with Heatmap')
+![Boxplot](/boxplot.jpeg 'Boxplot')
+![Boxplot with stat](/boxplotstat.jpeg 'Boxplot with stat')
+![Stacked Barplot](/stackedbarplot.png 'Stacked Barplot')
+![Heatmap](/heatmap.jpeg 'Heatmap')
+![Density Plot](/density.png 'Density Plot')
+![3D Density Plot](/density3d.jpeg '3D Density Plot')
 ![Histogram](/histogram.jpeg 'Histogram')
