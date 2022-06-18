@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Hunting foto di Ijen & pemandian air panas Blawan"
+title: "Hunting Foto di Ijen & Pemandian Air Panas Blawan"
 subtitle: ""
 summary: ""
 authors: []
