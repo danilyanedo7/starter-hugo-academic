@@ -43,5 +43,5 @@ Beberapa bulan selepas itu, kampus expo bondowoso yang bekerja sama dengan prima
 Di tahun ketiga perkuliahan, aku mendapatkan kesempatan diterima di program magister ITS dengan beasiswa fast track. Finally, aku diterima exchange di University of Szczecin dengan beasiswa Erasmus+.
 
 ## Ucapan Untuk Semua Pihak yang Telah Membantu
-Finally, aku sadar bahwa kegagalan dan penolakan bukan akhir segalanya. Failing is just another word of growing. Sekali lagi, kuucapkan terima kasih sebesar besarnya untuk Primagama Bondowoso dan seluruh tentor yang membimbingku selama proses persiapan intensif SBMPTN 2018.
+Finally, aku sadar bahwa kegagalan dan penolakan bukan akhir segalanya. Failing is just another word for growing, and I keep going. Sekali lagi, kuucapkan terima kasih sebesar besarnya untuk Primagama Bondowoso dan seluruh tentor yang membimbingku selama proses persiapan intensif SBMPTN 2018.
 Terima kasih juga kuucapkan ke segala pihak yang telah membantu dalam proses ini. Terima kasih.
