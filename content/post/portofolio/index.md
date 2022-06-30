@@ -54,7 +54,7 @@ categories:
 ![Line Chart 2](/lineplot2.jpeg 'Line Chart 2')
 ![Dendogram](/dendogram.png 'Dendogram')
 ![Sequence](/sequence.png 'Dendogram Sequence Analysis')
-![Dendogram Heatmap](/dendogramheat.jpeg 'Dendogram with Heatmap')
+![Dendogram Heatmap](/dendrogramheat.jpeg 'Dendogram with Heatmap')
 ![Boxplot](/boxplot.jpeg 'Boxplot')
 ![Boxplot with stat](/boxplotstat.jpeg 'Boxplot with stat')
 ![Stacked Barplot](/stackedbarplot.png 'Stacked Barplot')
