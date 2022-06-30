@@ -47,7 +47,7 @@ categories:
 4. This portofolio contains time series visualization, inferencial statistics, distribution and geospatial visualization. 
 
 
-## Gallery
+## Static Visualization
 
 ![Histogram](/histogram.jpeg 'Histogram')
 ![Line Chart](/lineplot.png 'Line Chart')
@@ -62,3 +62,11 @@ categories:
 ![Density Plot](/density.png 'Density Plot')
 ![3D Density Plot](/density3d.jpeg '3D Density Plot')
 ![Histogram](/histogram.jpeg 'Histogram')
+![K-means Clustering](/kmeans.jpeg 'Clustering')
+![Reactbale](/table.png 'Reactable')
+
+## Animated Visualization
+This is best for presentation
+![Animated Plot](/animasi.png)
+![Animated Plot](/animasi3.gif)
+
