@@ -1,5 +1,5 @@
 ---
-title: Data visualization portofolio 
+title: Data Visualization Portofolio 
 subtitle: Data visualization using ggplot2 and plotly
 
 # Summary for listings and search engines
