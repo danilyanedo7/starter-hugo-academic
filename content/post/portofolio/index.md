@@ -50,7 +50,6 @@ categories:
 
 ## Static Visualization
 
-![Histogram](/histogram.jpeg 'Histogram')
 ![Line Chart](/lineplot.png 'Line Chart')
 ![Line Chart 2](/lineplot2.jpeg 'Line Chart 2')
 ![Dendogram](/dendogram.png 'Dendogram')
