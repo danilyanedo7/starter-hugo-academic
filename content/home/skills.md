@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Data wrangling and manipulaion (tidyverse), data visualization (ggplot2, plotly), reporting (Rmarkdown, Bookdown, blogdown), and base R
+  - description: Data wrangling and manipulation (tidyverse), data visualization (ggplot2, plotly), reporting (Rmarkdown, Bookdown, blogdown), and base R
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 
+    name: R Programming Language
+  - description: Basic algebra and mathematics, data distribution, data analytics, hypothesis testing, and probability
     icon: chart-line
     icon_pack: fas
     name: Statistics

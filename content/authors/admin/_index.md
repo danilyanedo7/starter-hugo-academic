@@ -21,6 +21,7 @@ interests:
   - Applied Bioinformatics
   - Microbial Ecology
   - Biotechnology
+  - Data Analysis and Visualization
 
 # Education to show in About widget
 education:
@@ -30,7 +31,7 @@ education:
       year: 2020-Present
     - course: BSc in Biology
       institution: Institut Teknologi Sepuluh Nopember
-      year: 2018-present
+      year: 2018-2022
     
 
 # Social/Academic Networking
