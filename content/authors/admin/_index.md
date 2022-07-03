@@ -28,7 +28,7 @@ education:
   courses:
     - course: MSc in Microbiology
       institution: Institut Teknologi Sepuluh Nopember
-      year: 2020-Present
+      year: 2021-Present
     - course: BSc in Biology
       institution: Institut Teknologi Sepuluh Nopember
       year: 2018-2022
