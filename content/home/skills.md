@@ -28,6 +28,11 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
+
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["15px", "0", "15px", "0"]
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
