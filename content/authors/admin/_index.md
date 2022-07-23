@@ -6,7 +6,7 @@ title: Edo Danilyan
 superuser: true
 
 # Role/position/tagline
-role: Masters Student in Institut Teknologi Sepuluh Nopember
+role: Masters Student in
 
 # Organizations/Affiliations to show in About widget
 organizations:
