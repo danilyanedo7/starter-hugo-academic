@@ -35,6 +35,9 @@ content:
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["15px", "0", "15px", "0"]
 
   # Toggle between the various page layout types.
   #   1 = List

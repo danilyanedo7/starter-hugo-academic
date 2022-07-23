@@ -25,18 +25,18 @@ experience:
 
   - title: Researcher (Intern)
     company: Generasi Biologi Indonesia Foundation
-    company_url: ''
+    company_url: 'https://genbinesia.or.id'
     company_logo: org-genbi
     location:   Indonesia
     date_start: '2021-10-01'
     date_end: '2022-02-01'
     description: |2-
         * Intern at Molecular Biology and Genetics Division.
-        * Learned bioinformatics analysis of natural compund modelling and molecular docking.
+        * Studied bioinformatics analysis of natural compund modelling and molecular docking.
 
   - title: Student Intern
     company: BRIN Republik Indonesia
-    company_url: ''
+    company_url: 'https://www.brin.go.id'
     company_logo: org-brin
     location: Indonesia
     date_start: '2021-07-01'
@@ -48,7 +48,7 @@ experience:
 
   - title: Pre-Internship Student
     company: National Yang Ming University
-    company_url: ''
+    company_url: 'https://en.nycu.edu.tw'
     company_logo: org-nycu
     location: Online
     date_start: '2021-01-01'
@@ -58,7 +58,7 @@ experience:
 
   - title: Collaborative Online International Learning
     company: Kumamoto University
-    company_url: ''
+    company_url: 'https://ewww.kumamoto-u.ac.jp/en/'
     company_logo: org-ku
     location:   Online
     date_start: '2020-10-01'
@@ -72,7 +72,7 @@ experience:
 
   - title: Student Exchange
     company: Chulalongkorn University
-    company_url: ''
+    company_url: 'https://www.chula.ac.th/en/'
     company_logo: org-cu
     location:   Bangkok, Thailand
     date_start: '2020-01-01'
@@ -86,4 +86,7 @@ experience:
 
 design:
   columns: '2'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["15px", "0", "15px", "0"]
 ---

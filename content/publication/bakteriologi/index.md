@@ -70,14 +70,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-This book is in Bahasa Indonesia. The contents of this book include general characteristic of bacteria, the significance and relevanvcy of E. coli, P. aeruginosa, Bacillus sp., and S. aureus. This book covers the mechanism of quorum sensing, protein secretion, cell division, immunity, pathogenicity, antibiotic resistance, and antibiotic production. 
+This book is available in Bahasa Indonesia. The contents of this book include general characteristic of bacteria, the significance and relevanvcy of E. coli, P. aeruginosa, Bacillus sp., and S. aureus. This book covers the mechanism of quorum sensing, protein secretion, cell division, immunity, pathogenicity, antibiotic resistance, and antibiotic production. 

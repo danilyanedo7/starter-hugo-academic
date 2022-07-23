@@ -28,15 +28,15 @@ content:
   email: danilyanedo7@gmail.com
   #phone: 
   address:
-    street: Jl. Tegal Mulyorejo Baru
+    street: ''
     city: Surabaya
     region: East Java
-    postcode: '60115'
+    postcode: ''
     country: Indonesia
     country_code: ID
-  coordinates:
-    latitude: '-7.285842'
-    longitude: '122.794250'
+  # coordinates:
+  #   latitude: '-7.285842'
+  #   longitude: '122.794250'
 #  directions: 
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
@@ -47,11 +47,18 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/DanilyanEdo'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    # - icon: video
+    #   icon_pack: fas
+    #   name: Zoom Me
+    #   link: 'https://zoom.com'
+    - icon: instagram
+      icon_pack: fab
+      name: DM me
+      link: 'https://instagram.com/edo_danilyan?igshid=YmMyMTA2M2Y='
 
 design:
   columns: '2'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["15px", "0", "15px", "0"]
 ---

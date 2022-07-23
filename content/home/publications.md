@@ -34,6 +34,9 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["15px", "0", "15px", "0"]
 ---
 
 {{% callout note %}}
