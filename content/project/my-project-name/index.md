@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Project Name"
+title: "Community Development: Mangrove Sister School"
 summary: ""
 authors: []
-tags: []
+tags: [ComDev]
 categories: []
 date: 2022-07-23T13:16:32+07:00
 
@@ -30,7 +30,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/s1cfCRWrGwA"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+The Mangrove Sister School program is one of the programs that provides educational value to the surrounding community in the context of a mangrove restoration program with the Coastal and Marine Biodiversity Reserve concept which has been held by Pertaminas EP and Agrie Conservation in Lembung Paseser.
