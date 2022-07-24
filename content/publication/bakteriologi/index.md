@@ -8,9 +8,9 @@ authors:
   - Arif Luqman
   - Nur Hidayatul Alami
   - admin
-  - Aulia Annisa Dewi
-  - Ayudia Pratiwi
-  - Salsabila KP
+  - Bethari Auchenfloretta
+  - Berendina Fionna Dama
+
 
 # Author notes (optional)
 author_notes:
@@ -38,7 +38,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags: [Publication]
 
 # Display this page in the Featured widget?
 featured: true
