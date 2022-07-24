@@ -52,7 +52,7 @@ abstract: "Traditional oil mining poses negative effects on the environment thro
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Microbiome profiling]
+tags: [Publication]
 categories: []
 featured: false
 

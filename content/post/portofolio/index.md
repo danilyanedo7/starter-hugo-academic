@@ -32,8 +32,7 @@ authors:
   - admin
 
 
-tags:
-  - Academic
+tags: [Portfolio]
 
 categories:
 

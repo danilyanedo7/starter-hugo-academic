@@ -6,7 +6,7 @@ title: Edo Danilyan
 superuser: true
 
 # Role/position/tagline
-role: Masters Student in
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,8 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-Edo Danilyan is a masters student in Institut Teknologi Sepuluh Nopember. His research interests include microbiology, biotechnology and applied bioinformatics. 
-
-His expertise includes project design and management, data analysis and interpretation, and the development and implementation of research tools. He enjoy generating new ideas and devising feasible solutions to broadly relevant problems. His colleagues would describe him as a dynamic, resourceful individual who maintains a positive, proactive attitude when faced with adversity.
+Edo Danilyan is a graduate student in Institut Teknologi Sepuluh Nopember. His research interests include microbiology, biotechnology and applied bioinformatics. His expertise includes project design and management, data analysis and interpretation, and the development and implementation of research tools. He enjoy generating new ideas and devising feasible solutions to broadly relevant problems. His colleagues would describe him as a dynamic, resourceful individual who maintains a positive, proactive attitude when faced with adversity.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

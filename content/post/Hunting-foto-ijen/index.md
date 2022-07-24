@@ -5,7 +5,7 @@ title: "Hunting Foto di Ijen & Pemandian Air Panas Blawan"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: [Travel]
 categories: []
 date: 2022-06-17T15:00:57+07:00
 lastmod: 2022-06-17T15:00:57+07:00
