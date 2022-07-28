@@ -47,7 +47,7 @@ social:
     link: https://twitter.com/DanilyanEdo
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com
+    link: https://scholar.google.com/citations?user=mAVDgR0AAAAJ&hl=en
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-7453-0520
