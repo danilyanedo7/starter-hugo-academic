@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Microbiome Profiling
-      tag: Microbiome Profiling
+    - name: Research
+      tag: Research
     - name: Other
       tag: Demo
 
