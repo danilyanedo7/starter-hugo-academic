@@ -29,8 +29,8 @@ content:
       tag: '*'
     - name: Research
       tag: Research
-    - name: Other
-      tag: Demo
+    - name: ComDev
+      tag: ComDev
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

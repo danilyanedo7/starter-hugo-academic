@@ -1,10 +1,10 @@
 ---
 title: Introduction to R
 
-event: Tropical Rain Forest EcologyCourse
+event: Tropical Rain Forest Ecology Course
 event_url: https://youtu.be/HoGqIM3p5r0
 
-location: Biology Department Smartclass, Institut Teknologi Sepuluh Nopember
+location: Smartclass, Biology Department, Institut Teknologi Sepuluh Nopember
 address:
   street: Arif Rahman Hakim
   city: Surabaya
@@ -50,7 +50,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -58,7 +58,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - []
 ---
 
 <!-- {{% callout note %}}
