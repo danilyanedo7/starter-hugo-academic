@@ -18,4 +18,9 @@ title: 'A person with a plethora of ideas'
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+design:
+  columns: '2'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["10px", "0", "8px", "0"]
 ---
