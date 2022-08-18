@@ -22,5 +22,5 @@ design:
   columns: '2'
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10px", "0", "8px", "0"]
+    padding: ["10px", "0", "12px", "0"]
 ---
