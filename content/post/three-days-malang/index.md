@@ -3,7 +3,7 @@
 title: "Three Days Travelling Experience to Malang"
 subtitle: ""
 summary: "This article is the writer's travelling experience to Malang, specifically to Kebun Teh Lawang, Paralayang Batu and Pantai Malang Selatan"
-authors: []
+authors: [admin]
 tags: [Travel]
 categories: []
 date: 2022-06-19T19:45:13+07:00
