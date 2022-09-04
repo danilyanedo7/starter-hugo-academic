@@ -1,5 +1,5 @@
 ---
-title: "My thougth on minimalism and minimalistic life"
+title: "My thought on minimalism and minimalistic life"
 subtitle: ""
 summary: ""
 authors: [admin]
