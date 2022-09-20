@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Biotechnology
+    - course: MSc in Biology (Biotechnolgy)
       institution: Institut Teknologi Sepuluh Nopember
       year: 2021-Present
     - course: BSc in Biology

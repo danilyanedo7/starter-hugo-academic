@@ -1,27 +1,12 @@
 ---
 title: Data Visualization Portofolio 
 subtitle: Data visualization using ggplot2 and plotly
-
-# Summary for listings and search engines
 summary: Welcome to my visualization gallery. In this post, I posted several visualization that i created during my undergraduate study. 
-
-# Link this post with a project
 projects: []
-
-# Date published
 date: '2020-12-13T00:00:00Z'
-
-# Date updated
 lastmod: '2020-12-13T00:00:00Z'
-
-# Is this an unpublished draft?
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'distribution'
   focal_point: ''
@@ -31,9 +16,7 @@ image:
 authors:
   - admin
 
-
 tags: [Portfolio]
-
 categories:
 
 ---
