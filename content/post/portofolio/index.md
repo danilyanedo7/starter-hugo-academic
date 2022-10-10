@@ -51,6 +51,7 @@ categories:
 This is best for presentation
 ![Animated Plot](/animasi.png)
 ![Animated Plot](/animasi3.gif)
+![Animated Plot](/animasi4.gif)
 
 ## Interactive Plot
 You can interact with this plot by pointing your cursor to the component of the plot. This allows users to interact with graphs on display, allowing for a better storytelling experience. Zooming in and out, point value display, panning graphs, etc. Being able to navigate through your visualizations smoothly plays a huge part in communicating data. Observe how easy it is to explain complicated data by using this type of plot. Compared to a static graph, this is miles ahead.
