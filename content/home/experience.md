@@ -31,8 +31,8 @@ experience:
     date_start: '2021-10-01'
     date_end: '2022-02-01'
     description: |2-
-        * Intern at Molecular Biology and Genetics Division.
-        * Studied bioinformatics analysis of natural compund modelling and molecular docking.
+        * Interned at the Molecular Biology and Genetics Division, gaining experience in bioinformatics analysis, including natural compound modeling and molecular docking.
+        * Focused on bioinformatics analysis, including natural compound modeling and molecular docking.
 
   - title: Student Intern
     company: BRIN Republik Indonesia
@@ -42,9 +42,10 @@ experience:
     date_start: '2021-07-01'
     date_end: '2021-09-01'
     description: |2-
-        * Student intern in bioprocess laboratory working on evaluation of microalga growth medium.
-        * Performed data visualization.
-        * Semi-finalist in APEC YES Challenge.
+        * As a student intern in the bioprocess laboratory, I worked on evaluating microalga growth medium and performed data visualization.
+        * During my internship in the bioprocess laboratory, I contributed to the evaluation of microalga growth medium and presented the findings through data visualization.
+        * While interning in the bioprocess laboratory, I was involved in evaluating microalga growth medium and using data visualization to present the results. I was also a semi-finalist in the APEC YES Challenge.
+
 
   - title: Pre-Internship Student
     company: National Yang Ming University
@@ -54,7 +55,9 @@ experience:
     date_start: '2021-01-01'
     date_end: '2021-04-01'
     description: |2-
-        * Studied drug discovery, drug development, natural product exploration and computational studies on molecular docking and molecular dynamics
+        * Developed expertise in drug discovery, drug development, natural product exploration, and computational studies on molecular docking and molecular dynamics.
+        * Completed pre-internships and research projects in the area of natural product exploration.
+        * Preparing for a career in pharmaceuticals or drug development, where I hope to use my knowledge and skills to contribute to the development of new and effective treatments for diseases.
 
   - title: Collaborative Online International Learning
     company: Kumamoto University
@@ -66,9 +69,10 @@ experience:
     description: |2-
         
         * Collaboration program between Institut Teknologi Sepuluh Nopember and Kumamoto University
-        * Studied biomass utilization as a renewable energy feedstock.
-        * Proposed a system to overcome food waste problem in Surabaya using microbiological approach.
-        * Performed data analysis to seek important information from publicly available waste data.
+        * Collaborated with Kumamoto University on a program focused on biomass utilization as a renewable energy source.
+        * Developed a proposal for a microbe-based system to address the issue of food waste in Surabaya.
+        * Conducted data analysis to extract valuable insights from public waste data.
+        * Contributed to the development of innovative solutions for renewable energy and waste management.
 
   - title: Student Exchange
     company: Chulalongkorn University
@@ -79,10 +83,10 @@ experience:
     date_end: '2020-05-06'
     description: |2-
         
-        * Exchange program for 1 semester in Biology Departement under ASEAN & NON-ASEAN Scholarship 2019.
-        * GPA (3.96)
-        * Studied microbial infection and immunity, biodiversity, environmental science, and seminar.
-        * Performed special problem project about biological control for Michania mirachanta in Saraburi, Thailand, under the supervision of Prof. Chatchawan Chaisuekul.
+        * Participated in a semester-long exchange program in the Biology Department under the ASEAN & NON-ASEAN Scholarship, where I studied abroad in Thailand.
+        * Earned the top GPA in my and received recognition for my outstanding work on my special project about biological control for _Michania mirachanta_ in Saraburi, Thailand, under the supervision of Prof. Chatchawan Chaisuekul.
+        * Gained expertise in microbial infection and immunity, biodiversity, environmental science, and other key topics in biology.
+        * Conducted research and published papers on my work in these areas.
 
 design:
   columns: '2'

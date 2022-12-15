@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
+authors: [admin]
+tags: [Academic]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -45,11 +45,7 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+
 slides: ""
 
 # Projects (optional).
@@ -61,14 +57,4 @@ projects:
   - []
 ---
 
-<!-- {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
+A workshop on an introduction to R language for ecological research would provide a great opportunity for ecologists and other researchers to learn about the capabilities of R as a tool for data analysis and visualization. R is a powerful and widely used programming language in the field of ecology, and this workshop would provide a strong foundation in the basics of R, including data manipulation, statistical analysis, and visualization of ecological data. Participants in the workshop would be able to apply these skills to their own research and gain a better understanding of how R can be used to support ecological research.

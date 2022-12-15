@@ -23,11 +23,9 @@ categories:
 
 ## Overview
 
-1. I mainly work on R Studio IDE for visualization and statistical analysis
-2. For data visualization, I use ggplot2, plotly, & ggstatsplot package
-3. I am able to work with many types of datasets and many types of chart including scatter plot, bar plot, box plot, line plot, heatmap, venn diagram, density plot, violoin plot, ridgeline, bubble plot, lollipop, tree map, dendogram, area, sankey plot, 3d modelling, interactive plot and animated plot
-4. This portofolio contains time series visualization, inferencial statistics, distribution and geospatial visualization. 
-5. I am available for designer, consultant, analyst, and workshop instructor in the field of data visualization and reproducible analysis.
+I primarily use R Studio IDE for visualization and statistical analysis. I have extensive experience in data visualization and am proficient in a range of techniques and tools, including ggplot2, plotly, and ggstatsplot. I have successfully applied these skills to a variety of [projects]({{< relref "/project" >}}), from time series visualization and inferential statistics, to distribution and geospatial analysis. As a result, I am confident in my ability to effectively analyze and interpret data to support decision making and drive business results. I am available for designer, consultant, analyst, and workshop instructor in the field of data visualization and reproducible analysis.
+
+ I am familiar with bioinformatics tools and databases, such as BLAST, GenBank, or UniProt. Experience with analyzing and interpreting large biological datasets, such as genomics, proteomics, or transcriptomics data. My final project of undergraduate degree working with NGS (Next Generation Sequencing) method analysing microbiome profile.  I also have research experience in computational biology, including published [papers]({{< relref "/publication" >}}) or conference presentations in the field. Knowledge of statistics relevant to computational biology, such as linear regression or [clustering](https://danilyanedo7.github.io/praktikumsismikbits/). I also have experience with collaborating with biologists or other scientists to design and conduct computational biology experiments.
 
 
 ## Static Visualization
