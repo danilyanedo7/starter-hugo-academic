@@ -18,7 +18,7 @@ image:
 
 projects: []
 ---
-The Baluran National Park is located in East Java, Indonesia and is known for its diverse range of flora and fauna. The park is home to many species of birds, mammals, and reptiles, making it a popular destination for nature lovers and wildlife enthusiasts. As an adventure seeker, I always look for new places to explore and new experiences to try. Recently, I had the opportunity to visit Baluran National Park with my best friend [Daris](https://instagram.com/dezvros?igshid=YmMyMTA2M2Y=). It had been a long time since we last saw each other, so we were excited to catch up and spend some time together. We decided to take a motorcycle for the trip and it turned out to be a great decision, as we were able to navigate the park and its surroundings easily.
+The Baluran National Park is located in East Java, Indonesia and is known for its diverse range of flora and fauna. The park is home to many species of birds, mammals, and reptiles, making it a popular destination for nature lovers and wildlife enthusiasts. As an adventure seeker, I always look for new places to explore and new experiences to try. Recently, I had the opportunity to visit Baluran National Park with my best friend [Daris](https://instagram.com/dezvros?igshid=YmMyMTA2M2Y=). It had been a long time since we last saw each other, so we were excited to catch up and spend some time together. We decided to take a motorcycle for the trip and it turned out to be a great decision, as we were able to navigate the park and its surroundings easily.  
 
 ![Daris](/balurandaris1.jpeg 'Daris') ![Daris](/balurandaris2.jpeg 'Daris')
 
