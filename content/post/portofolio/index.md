@@ -1,6 +1,6 @@
 ---
-title: Data Visualization Portofolio 
-subtitle: Data visualization using ggplot2 and plotly
+title: Data Analysis and Visualization Portfolio 
+subtitle: Communicating science using visual
 summary: Welcome to my visualization gallery. In this post, I posted several visualization that i created during my undergraduate study. 
 projects: []
 date: '2020-12-13T00:00:00Z'
@@ -10,13 +10,12 @@ featured: false
 image:
   caption: 'distribution'
   focal_point: ''
-  placement: 2
   preview_only: false
 
 authors:
   - admin
 
-tags: [Portfolio]
+tags: [Portflio]
 categories:
 
 ---
@@ -56,6 +55,8 @@ You can interact with this plot by pointing your cursor to the component of the 
 
 <iframe width="700" height="500" frameborder="0" scrolling="yes" src="//plotly.com/~danilyanedo/1.embed"></iframe>
 
+## Dashboard
+<iframe width="700" height="500" src="https://danilyanedo7.github.io/dashboard/"></iframe> 
 
 ## Do you want to hire me for a project or workshop?  Schedule a  <a href="https://edodanilyan.com/#contact">discovery call</a>
 
