@@ -1,7 +1,7 @@
 ---
 title: Data Analysis and Visualization Portfolio 
 subtitle: Communicating science using visual
-summary: Welcome to my visualization gallery. In this post, I posted several visualization that i created during my undergraduate study. 
+summary: Welcome to my visualization gallery. In this post, I posted several visualizations that I created during my undergraduate study. 
 projects: []
 date: '2020-12-13T00:00:00Z'
 lastmod: '2020-12-13T00:00:00Z'
