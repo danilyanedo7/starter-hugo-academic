@@ -7,6 +7,19 @@ subtitle:
 date_format: Jan 2006
 experience:
 
+  - title: Student Exchange
+    company: University of Szczecin
+    company_url: 'http://www.usz.edu.pl/'
+    company_logo: org-sz
+    location:   Szczecin, Poland
+    date_start: '2022-10-01'
+    date_end: '2023-02-19'
+    description: |2-
+        
+        * Participated in a semester-long exchange program in the Biology Department under the Erasmus+ Scholarship.
+        * GPA 4/4.
+        * Conducted research on computational biology and published paper on my work in these areas.
+
   - title: Researcher (Intern)
     company: Generasi Biologi Indonesia Foundation
     company_url: 'https://genbinesia.or.id'
@@ -26,9 +39,9 @@ experience:
     date_start: '2021-07-01'
     date_end: '2021-09-01'
     description: |2-
-        * As a student intern in the bioprocess laboratory, I worked on evaluating microalga growth medium and performed data visualization.
-        * During my internship in the bioprocess laboratory, I contributed to the evaluation of microalga growth medium and presented the findings through data visualization.
-        * While interning in the bioprocess laboratory, I was involved in evaluating microalga growth medium and using data visualization to present the results. I was also a semi-finalist in the APEC YES Challenge.
+        * As a student intern in the bioprocess laboratory, I worked on evaluating microalgae growth medium and performed data visualization.
+        * During my internship in the bioprocess laboratory, I contributed to the evaluation of microalgae growth medium and presented the findings through data visualization.
+        * While interning in the bioprocess laboratory, I was involved in evaluating microalgae growth medium and using data visualization to present the results. I was also a semi-finalist in the APEC YES Challenge.
 
 
   - title: Pre-Internship Student
@@ -67,10 +80,10 @@ experience:
     date_end: '2020-05-06'
     description: |2-
         
-        * Participated in a semester-long exchange program in the Biology Department under the ASEAN & NON-ASEAN Scholarship, where I studied abroad in Thailand.
-        * Earned the top GPA in my and received recognition for my outstanding work on my special project about biological control for _Michania mirachanta_ in Saraburi, Thailand, under the supervision of Prof. Chatchawan Chaisuekul.
+        * Participated in a semester-long exchange program in the Biology Department under the ASEAN & NON-ASEAN Scholarship.
+        * Earned the top GPA and received recognition for my outstanding work on my special project about biological control for _Michania mirachanta_ in Saraburi, Thailand, under the supervision of Prof. Chatchawan Chaisuekul.
         * Gained expertise in microbial infection and immunity, biodiversity, environmental science, and other key topics in biology.
-        * Conducted research and published papers on my work in these areas.
+        * Conducted research and published paper on my work in these areas.
 
 design:
   columns: '2'
