@@ -59,6 +59,3 @@ You can interact with this plot by pointing your cursor to the component of the 
 <iframe width="700" height="500" src="https://danilyanedo7.github.io/dashboard/"></iframe> 
 
 ## Do you want to hire me for a project or workshop?  Schedule a  <a href="https://edodanilyan.com/#contact">discovery call</a>
-
-
-
