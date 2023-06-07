@@ -32,6 +32,14 @@ I primarily use R Studio IDE for [Exploratory Data Analysis](https://danilyanedo
 ### Personal Project: Storytelling with Data (order: before after)
 {{< gallery album="story">}}
 
+### Personal Project: Analayzing my Spotify Playback 2023
+![streaminghours](/spot_streaminghours.jpeg 'streaminghours')
+![minutesmostlistened](/spot_minutesmostlistened.jpeg 'minutesmostlistened')
+![hoursartist](/spot_hoursartist.jpeg 'hoursartist')
+![timeday](/spot_timeday.jpeg 'timeday')
+![plothoursday](/spot_plothoursday.jpeg 'plothoursday')
+![daytype](/spot_daytype.jpeg 'daytype')
+
 ### Personal Project: Creating 3D Maps
 {{< gallery album="map">}}
 
