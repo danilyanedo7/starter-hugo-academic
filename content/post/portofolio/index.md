@@ -32,6 +32,9 @@ I primarily use R Studio IDE for [Exploratory Data Analysis](https://danilyanedo
 ### Personal Project: Storytelling with Data (order: before after)
 {{< gallery album="story">}}
 
+### Personal Project: Analyzing My Spotify Playback 2022
+{{< gallery album="spot">}}
+
 ### Personal Project: Creating 3D Maps
 {{< gallery album="map">}}
 
