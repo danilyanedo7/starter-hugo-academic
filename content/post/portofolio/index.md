@@ -8,7 +8,7 @@ lastmod: '2020-12-13T00:00:00Z'
 draft: false
 featured: false
 image:
-  caption: 'Size distribution of microplastics'
+  caption: 'Biodiversity Monitoring'
   focal_point: ''
   preview_only: false
 
@@ -28,6 +28,13 @@ I primarily use R Studio IDE for [Exploratory Data Analysis](https://danilyanedo
 
 
 ## Static Visualization
+
+### Personal Project: Storytelling with Data (order: before after)
+{{< gallery album="story">}}
+
+### Personal Project: Creating 3D Maps
+{{< gallery album="map">}}
+
 
 ![Line Chart](/lineplot.png 'Line Chart')
 ![Line Chart 2](/lineplot2.jpeg 'Line Chart 2')
