@@ -19,7 +19,7 @@ experience:
         * Participated in a semester-long exchange program in the Biology Department under the **Erasmus+ Scholarship**.
         * GPA 4/4.
         * Conducted a collaborative work on computational biology to understand more about miRNA application as a biomarker, see the [publication](https://edodanilyan.com/publication/mirna/).
-        * See the report {{< staticref "uploads/erasmus.jpg" "newtab" >}}here{{< /staticref >}}
+        * See the report [here](uploads/erasmus.jpg)
 
   - title: Researcher (Intern)
     company: Generasi Biologi Indonesia Foundation
@@ -70,7 +70,7 @@ experience:
         * Developed a proposal for a microbe-based system to address food waste issue in Surabaya.
         * Conducted data analysis to extract valuable insights from public waste data.
         * Contributed to the development of innovative solutions for renewable energy and waste management.
-        * Attachment can be accessed {{< staticref "uploads/kumamoto.png" "newtab" >}}here{{< /staticref >}}
+        * Attachment can be accessed [here](uploads/kumamoto.png)
 
 
   - title: Student Exchange
@@ -83,7 +83,7 @@ experience:
     description: |2-
         
         * Participated in a semester-long exchange program in the Biology Department under the **ASEAN & NON-ASEAN Scholarship**.
-        * Earned the top {{< staticref "uploads/chula.pdf" "newtab" >}}GPA{{< /staticref >}} and received recognition for my outstanding work on my special project about biological control for _Michania mirachanta_ in Saraburi, Thailand, under the supervision of Prof. Chatchawan Chaisuekul.
+        * Earned the top [GPA](uploads/chula.pdf) and received recognition for my outstanding work on my special project about biological control for _Michania mirachanta_ in Saraburi, Thailand, under the supervision of Prof. Chatchawan Chaisuekul.
         * Gained expertise in microbial infection and immunity, biodiversity, environmental science, and other key topics in biology.
         * Conducted research and published paper on my work in these areas.
 
