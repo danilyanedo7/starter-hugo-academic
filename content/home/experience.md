@@ -16,9 +16,10 @@ experience:
     date_end: '2023-02-19'
     description: |2-
         
-        * Participated in a semester-long exchange program in the Biology Department under the Erasmus+ Scholarship.
+        * Participated in a semester-long exchange program in the Biology Department under the **Erasmus+ Scholarship**.
         * GPA 4/4.
-        * Conducted research on computational biology and published paper on my work in these areas.
+        * Conducted a collaborative work on computational biology to understand more about miRNA application as a biomarker, see the [publication](https://edodanilyan.com/publication/mirna/).
+        * See the report {{< staticref "uploads/erasmus.jpg" "newtab" >}}here{{< /staticref >}}
 
   - title: Researcher (Intern)
     company: Generasi Biologi Indonesia Foundation
@@ -35,13 +36,12 @@ experience:
     company: BRIN Republik Indonesia
     company_url: 'https://www.brin.go.id'
     company_logo: org-brin
-    location: Indonesia
+    location: Bogor, Indonesia
     date_start: '2021-07-01'
     date_end: '2021-09-01'
     description: |2-
-        * As a student intern in the bioprocess laboratory, I worked on evaluating microalgae growth medium and performed data visualization.
-        * During my internship in the bioprocess laboratory, I contributed to the evaluation of microalgae growth medium and presented the findings through data visualization.
-        * While interning in the bioprocess laboratory, I was involved in evaluating microalgae growth medium and using data visualization to present the results. I was also a semi-finalist in the APEC YES Challenge.
+        * During my internship in the bioprocess laboratory, I contributed to the evaluation of microalgae growth medium of Coellastrella sp. and presented the findings through data visualization.
+        * While interning in the bioprocess laboratory, I was involved in international competition and became a semi-finalist in the APEC YES Challenge.
 
 
   - title: Pre-Internship Student
@@ -65,11 +65,13 @@ experience:
     date_end: '2020-11-01'
     description: |2-
         
-        * Collaboration program between Institut Teknologi Sepuluh Nopember and Kumamoto University
-        * Collaborated with Kumamoto University on a program focused on biomass utilization as a renewable energy source.
-        * Developed a proposal for a microbe-based system to address the issue of food waste in Surabaya.
+        * A collaborative program between Institut Teknologi Sepuluh Nopember and Kumamoto University
+        * Collaborated with Kumamoto University student on a program focused on biomass utilization as a renewable energy source.
+        * Developed a proposal for a microbe-based system to address food waste issue in Surabaya.
         * Conducted data analysis to extract valuable insights from public waste data.
         * Contributed to the development of innovative solutions for renewable energy and waste management.
+        * Attachment can be accessed {{< staticref "uploads/kumamoto.png" "newtab" >}}here{{< /staticref >}}
+
 
   - title: Student Exchange
     company: Chulalongkorn University
@@ -80,14 +82,13 @@ experience:
     date_end: '2020-05-06'
     description: |2-
         
-        * Participated in a semester-long exchange program in the Biology Department under the ASEAN & NON-ASEAN Scholarship.
-        * Earned the top GPA and received recognition for my outstanding work on my special project about biological control for _Michania mirachanta_ in Saraburi, Thailand, under the supervision of Prof. Chatchawan Chaisuekul.
+        * Participated in a semester-long exchange program in the Biology Department under the **ASEAN & NON-ASEAN Scholarship**.
+        * Earned the top {{< staticref "uploads/chula.pdf" "newtab" >}}GPA{{< /staticref >}} and received recognition for my outstanding work on my special project about biological control for _Michania mirachanta_ in Saraburi, Thailand, under the supervision of Prof. Chatchawan Chaisuekul.
         * Gained expertise in microbial infection and immunity, biodiversity, environmental science, and other key topics in biology.
         * Conducted research and published paper on my work in these areas.
 
 design:
   columns: '2'
   spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["15px", "0", "15px", "0"]
 ---

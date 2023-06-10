@@ -22,9 +22,9 @@ categories:
 
 ## Overview
 
-I primarily use R Studio IDE for [Exploratory Data Analysis](https://danilyanedo7.github.io/dashboard/), visualization and statistical analysis. I have extensive experience in data visualization and am proficient in a range of techniques and tools, including ggplot2, plotly, and ggstatsplot. I have successfully applied these skills to a variety of [projects]({{< relref "/project" >}}), from time series visualization and inferential statistics, to distribution and geospatial analysis. As a result, I am confident in my ability to effectively analyze and interpret data to support decision making and drive business results. I am available for designer, consultant, analyst, and workshop instructor in the field of data visualization and reproducible analysis.
+I primarily use R Studio IDE for [Exploratory Data Analysis](https://danilyanedo7.github.io/dashboard/), visualization, and statistical analysis. I have extensive experience in data visualization and am proficient in a range of techniques and tools, including ggplot2, plotly, and ggstatsplot. I have successfully applied these skills to a variety of [projects]({{< relref "/project" >}}), from time series visualization and inferential statistics, to distribution and geospatial analysis. As a result, I am confident in my ability to effectively analyze and interpret data to support decision making and drive business results. I am available for designer, consultant, analyst, and workshop instructor in the field of data visualization and reproducible analysis.
 
- I am familiar with bioinformatics tools and databases, such as BLAST, GenBank, or UniProt, silva NGS, etc. Experience with analyzing and interpreting large biological datasets, such as genomics, proteomics, or transcriptomics data. My final project of undergraduate degree working with NGS (Next Generation Sequencing) method analysing microbiome profile based on mothur pipeline and silvaNGS database. I also have research experience in computational biology, including published [papers]({{< relref "/publication" >}}) or conference presentations in the field. Knowledge of statistics relevant to computational biology, such as linear regression or [clustering](https://danilyanedo7.github.io/praktikumsismikbits/). I also have experience with collaborating with biologists or other scientists to design and conduct computational biology experiments.
+ I am familiar with bioinformatics tools and databases, such as BLAST, GenBank, or UniProt, silva NGS, etc. Experience with analyzing and interpreting **large biological datasets**, such as genomics, proteomics, or transcriptomics data. My final project of undergraduate degree working with **NGS (Next Generation Sequencing)** method analysing microbiome profile based on mothur pipeline and silvaNGS database. I also have research experience in computational biology, including published [papers]({{< relref "/publication" >}}) or conference presentations in the field. Knowledge of statistics relevant to computational biology, such as linear regression or [clustering](https://danilyanedo7.github.io/praktikumsismikbits/). I also have experience with collaborating with biologists or other scientists to design and conduct computational biology experiments.
 
 
 ## Static Visualization
@@ -43,12 +43,11 @@ I primarily use R Studio IDE for [Exploratory Data Analysis](https://danilyanedo
 ### Personal Project: Creating 3D Maps
 {{< gallery album="map">}}
 
-
+### Static Random Plots
 ![Line Chart](/lineplot.png 'Line Chart')
 ![Line Chart 2](/lineplot2.jpeg 'Line Chart 2')
 ![Dendogram](/dendogram.png 'Dendogram')
 ![Sequence](/sequence.png 'Dendogram Sequence Analysis')
-![Dendogram Heatmap](/dendrogramheat.jpeg 'Dendogram with Heatmap')
 ![Boxplot](/boxplot.jpeg 'Boxplot')
 ![Boxplot with stat](/boxplotstat.jpeg 'Boxplot with stat')
 ![Stacked Barplot](/stackedbarplot.png 'Stacked Barplot')

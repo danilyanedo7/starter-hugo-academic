@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/DanilyanEdo'
+      link: 'https://twitter.com/danilyan_edo'
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me
