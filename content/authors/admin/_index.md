@@ -34,7 +34,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/danilyan_edo
+    link: https://twitter.com/edo_danilyan
   - icon: graduation-cap 
     icon_pack: fas
     link: https://scholar.google.com/citations?user=mAVDgR0AAAAJ&hl=en
