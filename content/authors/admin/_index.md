@@ -10,7 +10,7 @@ organizations:
   - name: Institut Teknologi Sepuluh Nopember
     url: https://www.its.ac.id/
 
-bio: My research interests include microbiology, biotechnology, & computational biology.
+bio: Interested in microbiology, biotechnology, & computational biology.
 
 interests:
   - Computational Biology
