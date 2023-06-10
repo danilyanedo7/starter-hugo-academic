@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Course & Certification'
+title: 'Accomplishment'
 subtitle:
 
 # Date format
@@ -70,3 +70,17 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["15px", "0", "15px", "0"]
 ---
+# Honor and Award
+* Erasmus+ Scholarship awardee
+* Top 10 Finalist in Battle of Minds Competition by British American Tobacco
+* 3rd Place in International Business Competition ICoBioS/OBC 2022
+* Institut Teknologi Sepuluh Nopember Fresh Graduate Scholarship awardee
+* Semi Finalist in APEC-YES Challenge 2021
+* Institut Teknologi Sepuluh Nopember Fast Track Scholarship awardee
+* Gold medalist and best impact paper award in Indonesia Inventor Days 2020
+* Special award by MIICA on World Invention Competition and Exhibition (IYSA)
+* Gold medalist on World Invention Competition and Exhibition (IYSA)
+* ASEAN & NON–ASEAN Countries 2019 Scholarship awardee
+* Bidikmisi On-Going Scholarship awardee
+
+# Course and Certification
