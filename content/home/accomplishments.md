@@ -70,7 +70,8 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["15px", "0", "15px", "0"]
 ---
-# Honor and Award
+## **Honor and Award**
+* Best presenter in International Conference of Science and Tecthnology (ICOST) 2023
 * Erasmus+ Scholarship awardee
 * Top 10 Finalist in Battle of Minds Competition by British American Tobacco
 * 3rd Place in International Business Competition ICoBioS/OBC 2022
@@ -83,4 +84,4 @@ design:
 * ASEAN & NON–ASEAN Countries 2019 Scholarship awardee
 * Bidikmisi On-Going Scholarship awardee
 
-# Course and Certification
+## **Course and Certification**
