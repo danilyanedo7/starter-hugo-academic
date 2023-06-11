@@ -221,4 +221,5 @@ daytype
 
 Note: This is the most enjoyable personal project because I can see and understand the pattern of my spotify playback :D. 
 
-See you in the next post and have a beautiful day!
+Buy me a [coffee](https://bmc.link/danilyanedo)
+See you in the next post and have a beautiful day! 
