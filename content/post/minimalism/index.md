@@ -1,5 +1,5 @@
 ---
-title: "My thought on minimalism and minimalistic life"
+title: "My Thought on Minimalism and Minimalistic Life"
 subtitle: ""
 summary: ""
 authors: [admin]
@@ -10,8 +10,6 @@ lastmod: 2022-08-28T11:04:28+07:00
 featured: false
 draft: false
 
-# To use, add an image named `featured.jpg/png` to your page's folder.
-
 image:
   caption: ""
   focal_point: ""
@@ -21,13 +19,13 @@ projects: []
 ---
 
 
-Have you ever bought cheap things, but the goods did not last long, then it becomes easily damaged and eventually must buy new things again? I’ve been there, done that. Or have you ever on a trip that consider to always spend money as minimum as possible, always choose the cheapest option, but ended up don't get a good experience, or even your trip become messed up. The plan is to save money, ended up being even more expensive. This super frugal behavior is often associated with a frugal lifestyle, or even minimalist living. There is nothing wrong with it if we tend to buy things that are not expensive, or at very low prices.
+Have you ever bought cheap things, but the goods did not last long, then it becomes easily damaged and eventually you have to buy new things again? I’ve been there, done that. Or have you ever on a trip that consider to always spend money as minimum as possible, always choose the cheapest option, but ended up don't get a good experience, or even worse your trip was messed up. The initial plan is to save money, ended up spending more money. This super frugal behavior is often associated with a frugal lifestyle. There is nothing wrong with it if we tend to buy things that are not expensive, or at very low prices.
 
-But the question is: Isn't it true that life is super frugal like this even to the point that some seem stingy, even sacrificing their own comfort in order to live a life that is in 'minimalist' or frugal way? Isn't it true that living a minimalist, frugal life, you must always buy the cheapest things?
+But the question is: Is it true that living a minimalist, frugal life, you have to buy the cheapest things?
 
 In this article, I want to share my opinion and thoughts to address these questions. Actually, there is nothing wrong when we want to live a super frugal life. In fact, I also encourage everyone to live a life that is not extravagant. But that doesn't mean we should always spend the smallest amount of money. If we're always compelled to be like that, yes, maybe it can be said to be 'pelit' anyway. Especially without considering many other aspects that can create new problems for us. Which may not be a priority.
 
-Put it this way, we need a vehicle for example for daily use. Because we want to save money, we finally buy an old-school second hand motorcycle. After several day of use, the motorcycle often breaks down. Because we don't understand the motorcycle, we ended up must go to the workshop frequently to deal with these problems. In the end, it becomes more expensive from various aspects, not even just from money. We have to spend more time, overthinking more and etc.
+Put it this way, we need a vehicle for example for daily use. Since we want to save money, we finally buy an old-school second hand motorcycle. After several day of usage, the motorcycle often breaks down. Because we have no clue about the motorcycle, we ended up must go to the workshop frequently to deal with these problems. In the end, it becomes more expensive from various aspects, not even just from money. We have to spend more time, overthinking more, etc.
 
 Sometimes some of you considers that frugal living is the same as a minimalist or frugal lifestyle. Even though it shouldn't be the same thing. Then, what kind of minimalist life is like? then how to solve this overly frugal problem? It may be that we spend more money than people who buy things a little more expensive.
 
