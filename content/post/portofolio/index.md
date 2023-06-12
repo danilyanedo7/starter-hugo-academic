@@ -33,6 +33,8 @@ I primarily use R Studio IDE for [Exploratory Data Analysis](https://danilyanedo
 {{< gallery album="story">}}
 
 ### Personal Project: Analayzing my Spotify Playback 2023
+
+For the tutorial and how I did the analysis, it can be accessed through this [link](https://edodanilyan.com/post/spotify/)
 ![streaminghours](/spot_streaminghours.jpeg 'streaminghours')
 ![minutesmostlistened](/spot_minutesmostlistened.jpeg 'minutesmostlistened')
 ![hoursartist](/spot_hoursartist.jpeg 'hoursartist')
