@@ -38,7 +38,7 @@ However, I quickly realized that perseverance and a problem-solving mindset were
 ## Resources and Support
 The online R programming community played a significant role in my progress. Forums, social media groups, and platforms such as Stack Overflow provided me with a vast pool of knowledge and solutions to common programming problems. Engaging with the community not only helped me find answers but also exposed me to diverse perspectives and alternative approaches to problem-solving.
 
-## Triumph and Growth:
+## Triumph and Growth
 As weeks turned into months, my perseverance began to pay off. I gradually gained confidence in writing R code, developed a better understanding of data manipulation and analysis techniques, and started exploring advanced topics like data visualization and statistical modeling.
 
 One of the turning points in my journey was when I successfully implemented a complex data analysis project using R which is metagenomic analysis. I analyzed large biological datasets with so many data wrangling and manipulations. The feeling of accomplishment and the realization that I had come a long way from my humble beginnings further fueled my passion for R programming. The more I practiced, the more I discovered the versatility of R and its vast ecosystem of packages and libraries, which opened up endless possibilities for data exploration and analysis. I discovered so many interesting packages along the way such as gganimate, ggplotly, highcharters, flextable, flexdashboard, rayshader, spatstat, and many others.
