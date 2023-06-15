@@ -32,7 +32,7 @@ I primarily use R Studio IDE for [Exploratory Data Analysis](https://danilyanedo
 ### Personal Project: Storytelling with Data (order: before after)
 {{< gallery album="story">}}
 
-### Personal Project: Analayzing my Spotify Playback 2023
+### Personal Project: Analayzing my Spotify Playback 2022
 
 For the tutorial and how I did the analysis, it can be accessed through this [link](https://edodanilyan.com/post/spotify/)
 ![streaminghours](/spot_streaminghours.jpeg 'streaminghours')
