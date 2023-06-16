@@ -2,7 +2,7 @@
 
 title: "My Journey of Learning R Programming from Scratch: Mistakes and Tips for New Users (Biologist Perspectives)"
 subtitle: ""
-summary: "This blog recounts my experiences, challenges, and triumphs as I navigated the steep learning process, ultimately becoming as a self claimed proficient R user, LMAO."
+summary: "This blog recounts my experiences, challenges, and triumphs as I navigated the steep learning process, ultimately becoming as a self proclaimed proficient R user, LMAO."
 authors: [admin]
 tags: [Experience]
 categories: []

@@ -1,0 +1,20 @@
+# Theme metadata
+
+# Based off of the Hugo Academic "minimal" theme and Silvia Canelon's theme
+name = "my_theme"
+
+# Is theme light or dark?
+[light]
+  # Primary
+  primary = "#3c6e71" # changes colors of links
+
+  # Menu
+  menu_primary = "#122140"
+  menu_text = "rgba(255,255,255,0.6)" # "#34495e" # main text in menu
+  menu_text_active = "#e58500" # social media icons
+  menu_title = "#fff" # text in the menu bar
+
+  # Home sections
+  background = "rgb(255, 255, 255)" # page background
+  home_section_odd = "rgb(255, 255, 255)" # white
+  home_section_even = "#fafafb" # light gray
