@@ -16,7 +16,6 @@ summary: Statistical inference in R programming language.
 abstract: 'This talk covers basic operation of statistical inference in R language. This talk used bilogical data for hands on coding practice. The aim of this talk is to provide general view of basic operation of R languange and also to familiarize student with end to end analysis.'
 
 date: '2023-05-23T13:00:00Z'
-#date_end: '2030-03-24T16:00:00Z'
 all_day: false
 
 authors: [admin, Aulia Kharis R]
