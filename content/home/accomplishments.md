@@ -55,17 +55,17 @@ design:
     padding: ["15px", "0", "15px", "0"]
 ---
 ## **Honor and Award**
-* Best presenter in International Conference of Science and Tecthnology (ICOST) 2023
-* Erasmus+ Scholarship awardee
+* Best presenter at The International Conference of Science and Tecthnology (ICOST) 2023
+* Erasmus+ Scholarship Awardee
 * Top 10 Finalist in Battle of Minds Competition by British American Tobacco
 * 3rd Place in International Business Competition ICoBioS/OBC 2022
-* Institut Teknologi Sepuluh Nopember Fresh Graduate Scholarship awardee
+* Institut Teknologi Sepuluh Nopember Fresh Graduate Scholarship Awardee
 * Semi Finalist in APEC-YES Challenge 2021
-* Institut Teknologi Sepuluh Nopember Fast Track Scholarship awardee
+* Institut Teknologi Sepuluh Nopember Fast Track Scholarship Awardee
 * Gold medalist and best impact paper award in Indonesia Inventor Days 2020
 * Special award by MIICA on World Invention Competition and Exhibition (IYSA)
 * Gold medalist on World Invention Competition and Exhibition (IYSA)
-* ASEAN & NON–ASEAN Countries 2019 Scholarship awardee
-* Bidikmisi On-Going Scholarship awardee
+* ASEAN & NON–ASEAN Countries 2019 Scholarship Awardee
+* Bidikmisi On-Going Scholarship Awardee
 
 ## **Course and Certification**
