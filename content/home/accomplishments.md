@@ -55,7 +55,7 @@ design:
     padding: ["15px", "0", "15px", "0"]
 ---
 ## **Honor and Award**
-* Best presenter at The International Conference of Science and Tecthnology (ICOST) 2023
+* Best presenter at The International Conference of Science and Technology (ICOST) 2023
 * Erasmus+ Scholarship Awardee
 * Top 10 Finalist in Battle of Minds Competition by British American Tobacco
 * 3rd Place in International Business Competition ICoBioS/OBC 2022

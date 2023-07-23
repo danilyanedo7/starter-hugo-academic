@@ -53,7 +53,6 @@ email: ''
 
 highlight_name: true
 ---
-
 Edo Danilyan is a graduate student at the Institut Teknologi Sepuluh Nopember, where he focuses on microbiology, biotechnology, and applied bioinformatics. Edo has a wealth of experience in project design and management, data analysis and interpretation, and the development of research tools. He is known for his innovative thinking and his ability to come up with practical solutions to complex problems. His colleagues describe him as a driven, resourceful person who remains positive and proactive even in the face of challenges.
 
 See my **data visualization** portfolio [here.]({{< relref "/post/portofolio" >}})
