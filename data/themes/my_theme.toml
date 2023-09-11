@@ -6,7 +6,7 @@ name = "my_theme"
 # Is theme light or dark?
 [light]
   # Primary
-  primary = "#3c6e71" # changes colors of links
+  primary = "#1e8f7c" # changes colors of links
 
   # Menu
   menu_primary = "#122140"
