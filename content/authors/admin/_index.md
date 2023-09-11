@@ -20,9 +20,9 @@ interests:
 
 education:
   courses:
-    - course: MSc in Biology (Biotechnolgy)
+    - course: MSc in Biology (Biotechnology)
       institution: Institut Teknologi Sepuluh Nopember
-      year: 2021-Present
+      year: 2021-2023
     - course: BSc in Biology
       institution: Institut Teknologi Sepuluh Nopember
       year: 2018-2022
