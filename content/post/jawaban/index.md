@@ -4,7 +4,7 @@ title: "Jawaban Dari Berbagai Penolakan"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [Expereince]
+tags: [Experience]
 categories: []
 date: 2022-06-29T12:15:33+07:00
 lastmod: 2022-06-29T12:15:33+07:00
