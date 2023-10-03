@@ -55,6 +55,7 @@ design:
     padding: ["15px", "0", "15px", "0"]
 ---
 ## **Honor and Award**
+* The Most Outstanding Graduate in Institut Teknologi Sepuluh Nopember (Master Degree)
 * Best presenter at The International Conference of Science and Technology (ICOST) 2023
 * Erasmus+ Scholarship Awardee
 * Top 10 Finalist in Battle of Minds Competition by British American Tobacco

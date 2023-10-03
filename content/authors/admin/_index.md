@@ -10,17 +10,19 @@ organizations:
   - name: Institut Teknologi Sepuluh Nopember
     url: https://www.its.ac.id/
 
-bio: Interested in microbiology, biotechnology, & computational biology.
+bio: Interested in computational biology.
 
 interests:
   - Computational Biology
   - Microbial Ecology
   - Biotechnology
+  - Wildlife and Conservation
+  - Sustainable Develeopment
   - Data Analytics and Visualization
 
 education:
   courses:
-    - course: MSc in Biology (Biotechnology)
+    - course: MSc in Biology
       institution: Institut Teknologi Sepuluh Nopember
       year: 2021-2023
     - course: BSc in Biology
@@ -53,7 +55,7 @@ email: ''
 
 highlight_name: true
 ---
-Edo Danilyan is a graduate student at the Institut Teknologi Sepuluh Nopember, where he focuses on microbiology, biotechnology, and applied bioinformatics. Edo has a wealth of experience in project design and management, data analysis and interpretation, and the development of research tools. He is known for his innovative thinking and his ability to come up with practical solutions to complex problems. His colleagues describe him as a driven, resourceful person who remains positive and proactive even in the face of challenges.
+Edo Danilyan is a fresh graduate from the Institut Teknologi Sepuluh Nopember, where he focuses on data analytics and computational biology. Edo has a wealth of experience in project design and management, data analysis and interpretation, and the development of research tools. He is known for his innovative thinking and his ability to come up with practical solutions to complex problems. His colleagues describe him as a driven, resourceful person who remains positive and proactive even in the face of challenges.
 
 See my **data visualization** portfolio [here.]({{< relref "/post/portofolio" >}})
 
