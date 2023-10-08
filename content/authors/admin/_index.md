@@ -17,7 +17,8 @@ interests:
   - Microbial Ecology
   - Biotechnology
   - Wildlife and Conservation
-  - Sustainable Develeopment
+  - Sustainable Development
+  - Remote Sensing
   - Data Analytics and Visualization
 
 education:
