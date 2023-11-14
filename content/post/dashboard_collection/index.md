@@ -63,6 +63,8 @@ remotes::install_github('rstudio/flexdashboard')
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQALdsbDeY4pEt55rU7lODO8xaM7GBIqKkqyjzgCZFu7l-xJhq7q8OsOcn9XvYBLA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="337" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+6. R Studio for Biostatistics
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdJW_1z4_h4rjEPhe-ubaEmsOFXkbZFlGYzFWpwM2BKEuCp_FufAPvHmwp-GGOKQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="337" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 That's all I can share for now, next time I will make a complete tutorial on how to make dashboard in R studio and also tips and trick on creating power point presentation. See you next time!
 
