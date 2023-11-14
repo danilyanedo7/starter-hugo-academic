@@ -36,4 +36,3 @@ design:
 
   flip_alt_rows: false
 ---
-<iframe seamless = "" width = "100%", height = "300" class="shortcode-iframe" src="/leaflet/work_map.html"></iframe>
