@@ -1,6 +1,6 @@
 ---
-title: "Dashboard Collection"
-subtitle: "Exploratory data analytics using dashboard as a reporting medium"
+title: "Dashboard Collection and Slides Presentation Samples"
+subtitle: "Exploratory data analytics using dashboard as a reporting medium and slides I have created for a presentation"
 summary: ""
 authors: []
 tags: [Portfolio, Dashboard]
@@ -40,6 +40,30 @@ remotes::install_github('rstudio/flexdashboard')
 2. [Palmer Penguins.](https://danilyanedo7.github.io/penguin-dashboard/)
 ![Web view of Palmer Penguins Dashboard](/palmerpenguin.png 'Web view of Palmer Penguins Dashboard')
 
-That's all I can share for now, next time I will make a complete tutorial on how to make dashboard in R studio. See you next time!
+
+
+## Slides Presentation
+1. Environmental DNA
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTN22KOEoLzCekzKtc279VEq16RucIODB47yUPAiKrAGr52Z1SJ7KiWwU47FA9Oxg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="337" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+2. Birds of Indonesia
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vScw7x11XovJE-1-Xjn38MoYKjMCVxM7Ho7aTjTEG6BDwbSdOqIlm61qfiaSM_T0g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="337" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+3. RFLP 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgYVd3k-dcPGrc2wwlTNhJ0-5RHtlEr50aHKu-8P5EOf-iIQTX6xGUKe-Oy5LAMQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="337" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+4. Metabolic Engineering: Case Study
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7twBSkrPWkAyFTGJmi3aiAtRWeRPHVIwgzf3LKWpKWVy0-oofXdUNfRhHtE2AQg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="337" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+5. Dunia Pasca Kampus
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQALdsbDeY4pEt55rU7lODO8xaM7GBIqKkqyjzgCZFu7l-xJhq7q8OsOcn9XvYBLA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="337" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+That's all I can share for now, next time I will make a complete tutorial on how to make dashboard in R studio and also tips and trick on creating power point presentation. See you next time!
 
 Buy me a [coffee](https://bmc.link/danilyanedo) :D
