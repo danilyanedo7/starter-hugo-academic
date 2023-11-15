@@ -26,7 +26,7 @@ categories:
     2. [Personal Project 2: Analyzing my Spotify Playback 2022](#subparagraph2)
     3. [Personal Project 3: R geospatial and computing](#subparagraph3)
     4. [Static Plot Collection](#subparagraph4)
-3. [Ainmated Visualization](#animatedviz)
+3. [Animated Visualization](#animatedviz)
 4. [Interactive Visualization](#interact)
 5. [Dashboard](#dashboard)
 
