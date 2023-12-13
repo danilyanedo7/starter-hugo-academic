@@ -30,7 +30,7 @@ Alas Karetan is a forest located in Kediri, East Java, Indonesia.  This forest p
 ![](/alaska3.jpeg 'Pigeon Orchid')
 ![](/alaska4.jpeg 'Ink Cap Mushroom')
 
-Because of its very important function, it is necessary to carry out biodiversity research to determine the potential of rubber mat forests and can become a basic reference for conservation management.  The research team under the supervision of Iska Desmawati, M.Si., and Indah Trisnawati Ph.D carried out profiling of the diversity of trees, shrubs, insects, epiphytic plants and also fungi.  Not only that, a tree mortality assessment was also carried out to determine the condition of tree mortality in the forest.  The method used in tree mortality analysis can be checked at the following [link](https://forestgeo.si.edu/protocols/tree-mortality-damage-protocol). 
+Because of its very important function, it is necessary to carry out biodiversity research to determine the potential of Alas Karetan forests and can become a basic reference for conservation management.  The research team under the supervision of Iska Desmawati, M.Si., and Indah Trisnawati Ph.D carried out profiling of the diversity of trees, shrubs, insects, epiphytic plants and also fungi.  Not only that, a tree mortality assessment was also carried out to determine the condition of tree mortality in the forest.  The method used in tree mortality analysis can be checked at the following [link](https://forestgeo.si.edu/protocols/tree-mortality-damage-protocol). 
 
 ![](/alaska5.jpeg 'Tree Mortality Assesment')
 
