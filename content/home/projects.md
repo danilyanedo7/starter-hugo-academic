@@ -19,8 +19,12 @@ content:
       tag: '*'
     - name: Research
       tag: Research
-    - name: ComDev
+    - name: Community Development
       tag: ComDev
+    - name: Data Visualization
+      tag: dataviz
+    - name: R
+      tag: R
 
 design:
   columns: '2'

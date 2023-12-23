@@ -6,6 +6,8 @@ summary: Welcome to the computational microbiology, a key component of our Micro
 tags:
   - Research
   - Portfolio
+  - R
+  - dataviz
 date: '2021-02-27T00:00:00Z'
 external_link: ''
 
