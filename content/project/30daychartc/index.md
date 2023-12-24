@@ -26,6 +26,6 @@ url_video: ""
 
 slides: ""
 ---
-Hi guys, this is a friendly and accessible open source book for beginners. Join me in exploring the fascinating world of data visualization through a series of engaging charts and step-by-step tutorials using R programming language. This book not only showcases the my personal contributions to the 30 Day Chart Challenge but also invites readers to learn alongside them. With clear explanations, easy-to-follow code, and approachable tutorials, this resource aims to demystify the art of visualizing data. Whether you're new to data or looking to enhance your skills, this book provides a supportive and encouraging space to dive into the exciting data storytelling. Let's make charts together!
+Hi guys, this is a friendly and accessible open source book for beginners. Join me in exploring the fascinating world of data visualization through a series of engaging charts and step-by-step tutorials using R programming language. This book not only showcases my personal contributions to the 30 Day Chart Challenge but also invites readers to learn alongside them. With clear explanations, easy-to-follow code, and approachable tutorials, this resource aims to demystify the art of visualizing data. Whether you're new to data or looking to enhance your skills, this book provides a supportive and encouraging space to dive into the exciting data storytelling. Let's make charts together!
 
 I am open for any project or coaching, let's [talk](/#contact)!
