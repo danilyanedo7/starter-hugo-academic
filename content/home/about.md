@@ -1,26 +1,12 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: 'A person with a plethora of ideas'
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: '[A person with a plethora of ideas](https://edodanilyan.com/post/aboutme)'
 author: admin
 design:
   columns: '2'
   spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["10px", "0", "12px", "0"]
 ---
