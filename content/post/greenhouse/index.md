@@ -21,6 +21,8 @@ projects: []
 
 Hi guys, it's been a long time since my last blog, currently I am working on several projects and have no time to write a blog. But, today I have such a good mood after having a wonderful discussion about arts with my friends. It sparks my interest to show my orchids collection, but before that, I need to show you how I built a home for my orchids and if you share the same love for these flowers as I do, you'll understand the excitement that comes with creating the perfect environment for the orchid collection.
 
+![](/gh.jpeg '')
+
 Imagine this: I'm strolling through the forest, admiring the beauty of tropical forest greenery. It hits me – why not recreate this magical setting for my orchids? How big should the greenhouse be? Where's the best spot in my house? And how can I make sure my orchids get everything they need?
 
 ## Section 1: Planning and Inspiration
