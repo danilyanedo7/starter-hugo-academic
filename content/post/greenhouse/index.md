@@ -19,7 +19,7 @@ projects: []
 
 ## Introduction
 
-Hi guys, it's been a long time since my last blog, currently I am working on several projects and have no time to write a blog. But, today I have such a good mood after having a wonderful discussion about arts with my friends. It sparks my interest to show my orchids collection, but before that, I need to show you how I built a home for my orchids and if you share the same love for these flowers as I do, you'll understand the excitement that comes with creating the perfect environment for the orchid collection. In this blog post.
+Hi guys, it's been a long time since my last blog, currently I am working on several projects and have no time to write a blog. But, today I have such a good mood after having a wonderful discussion about arts with my friends. It sparks my interest to show my orchids collection, but before that, I need to show you how I built a home for my orchids and if you share the same love for these flowers as I do, you'll understand the excitement that comes with creating the perfect environment for the orchid collection.
 
 Imagine this: I'm strolling through the forest, admiring the beauty of tropical forest greenery. It hits me – why not recreate this magical setting for my orchids? How big should the greenhouse be? Where's the best spot in my house? And how can I make sure my orchids get everything they need?
 
@@ -30,12 +30,13 @@ The planning process was both exciting and challenging. I considered factors suc
 
 ## Section 2: Materials and Tools
 
-With a clear plan in mind, it was time to gather the necessary materials and tools. I decided to use for a combination of durable materials that could withstand varying weather conditions but also lightweight. My materials list included glavanised steel, screw, metal mesh, plastic mesh, lamp, wire, and I found most of them at local building material store. For growing medium, I bought coconut fiber, charcoal, and soil.
+With a clear plan in mind, it was time to gather the necessary materials and tools. I decided to use for a combination of durable materials that could withstand varying weather conditions but also lightweight. My materials list included glavanised steel, screw, metal mesh, plastic mesh, lamp, wire, and I found most of them at local building material store. I also used hand drill, angle grinder, bubble level, safety goggles. For growing medium, I bought coconut fiber, charcoal, and soil.
+![](/gh1.jpeg 'Material prep')
 
 ## Section 3: Construction Process
 
 The construction process was a challenges. I began the journey by measuring materials and cut them into desirable size. The greenhouse took shape step by step, from framing and installing each parts.
-![](/gh1.jpeg 'Material prep')
+
 
 It's time for the fun part – assembling the frame! I follow my design plan and start piecing together the parts to create the skeleton of my greenhouse. This is where I can get creative with my design like adding extra shelves, hanging baskets, etc.
 
