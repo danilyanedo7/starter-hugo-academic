@@ -1,6 +1,6 @@
 ---
 
-title: "Beyond horizons: The sky speaks in many colours."
+title: "Beyond horizons: The sky speaks in many colours"
 subtitle: ""
 summary: ""
 authors: [admin]
