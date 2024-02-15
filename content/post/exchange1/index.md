@@ -3,7 +3,7 @@ title: "Reflecting on My Journey at Chulalongkorn University: An Unforgettable S
 subtitle: "A Hub of Cultural Diversity and Academic Excellence"
 summary: ""
 authors: [admin]
-tags: [Experience]
+tags: [Experience, Study Abroad]
 categories: []
 date: 2022-12-11T15:48:00+01:00
 lastmod: 2022-12-11T15:48:00+01:00
