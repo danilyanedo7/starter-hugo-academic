@@ -21,11 +21,14 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/edo_danilyan'
-
     - icon: instagram
       icon_pack: fab
       name: DM me
       link: 'https://instagram.com/edo_danilyan?igshid=YmMyMTA2M2Y='
+    - icon: calendar-days
+      icon_pack: fas
+      name: Schedule a mentoring session
+      link: 'https://calendly.com/mentoringwithedo/30min'
 
 design:
   columns: '2'
