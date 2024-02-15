@@ -56,7 +56,7 @@ Program sukarelawan internasional memberikan kesempatan bagi siswa untuk memberi
 
 ## Degree program
 1. Degree Program S2 (Magister)\
-Program magister internasional adalah program pascasarjana yang memungkinkan siswa untuk mengejar gelar master di luar negeri. Program ini biasanya berlangsung selama satu hingga dua tahun, tergantung pada program dan negara tujuan. Siswa yang memilih untuk mengejar gelar master di luar negeri dapat memilih dari berbagai bidang studi, mulai dari ilmu sosial, humaniora, ilmu alam, teknik, bisnis, dan lainnya.
+Program magister internasional adalah program pascasarjana yang memungkinkan siswa untuk mengejar gelar master di luar negeri. Program ini biasanya berlangsung selama satu hingga dua tahun, tergantung pada program dan negara tujuan. Siswa yang memilih untuk mengejar gelar master di luar negeri dapat memilih dari berbagai bidang studi, mulai dari ilmu sosial, humaniora, ilmu alam, teknik, bisnis, dan lainnya.\
 Manfaat dari mengejar gelar master di luar negeri termasuk akses terhadap pendidikan tinggi yang berkualitas tinggi, pengalaman belajar yang beragam dengan mahasiswa dari berbagai negara, serta peluang untuk memperluas jaringan profesional secara global. Program-program magister juga sering kali menawarkan kesempatan untuk melakukan penelitian atau praktik di industri terkait, yang dapat meningkatkan keterampilan dan pengetahuan siswa dalam bidang studi mereka.
 
 2. Degree Program S3 (Doktor)\
@@ -101,6 +101,7 @@ Ya, begitulah gambaran umum di bagian pertama ini, semoga temen-temen bisa menda
 
 See you di blog berikutnya!
 
+Oiya, share feedback temen-temen secara anonim di [link ini](https://docs.google.com/forms/d/1ky9XoVtOH-IcDJ8PbudmqTftYImZXfbrXxuboXP_75w/edit), yuk.
 
 
 
