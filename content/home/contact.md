@@ -19,7 +19,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: DM me
       link: 'https://twitter.com/edo_danilyan'
     - icon: instagram
       icon_pack: fab
@@ -29,6 +29,10 @@ content:
       icon_pack: fas
       name: Schedule a mentoring session
       link: 'https://calendly.com/mentoringwithedo/30min'
+    - icon: message
+      icon_pack: fas
+      name: Send me anonymous message here
+      link: 'https://forms.gle/DXBuCbvJhDiddMAG7' 
 
 design:
   columns: '2'
