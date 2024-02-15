@@ -101,7 +101,7 @@ Ya, begitulah gambaran umum di bagian pertama ini, semoga temen-temen bisa menda
 
 See you di blog berikutnya!
 
-Oiya, share feedback temen-temen secara anonim di [link ini](https://docs.google.com/forms/d/1ky9XoVtOH-IcDJ8PbudmqTftYImZXfbrXxuboXP_75w/edit), yuk.
+Oiya, share feedback temen-temen secara anonim di [link ini](https://forms.gle/DXBuCbvJhDiddMAG7), yuk.
 
 
 
