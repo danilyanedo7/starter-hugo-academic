@@ -1,6 +1,6 @@
 ---
 
-title: "Study Abroad Series: Penglaman mendaftar di Life Science Zurich Graduate School"
+title: "Study Abroad Series: Pengalaman mendaftar di Life Science Zurich Graduate School"
 subtitle: "Ini adalah bagian kedua dari Study Abroad Series yang berisi pengalamanku mendaftar PhD program di Zurich hingga mendapatkan letter of admission"
 summary: ""
 authors: [admin]
