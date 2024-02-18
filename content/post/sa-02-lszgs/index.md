@@ -22,7 +22,7 @@ projects: []
 
 Life Science Zurich Graduate School adalah sebuah institusi pendidikan tinggi yang terkenal di Swiss, khususnya dalam bidang ilmu hayati atau life sciences. Institusi ini menawarkan program-program pascasarjana yang menekankan pada penelitian dan pengembangan di berbagai disiplin ilmu hayati, seperti biologi molekuler, genetika, biokimia, bioteknologi, dan banyak lagi. Kalau bisa kuberi analogi, imagine ada institusi yang mengakomodir proses pendaftaran S3 di Surabaya, sebutalah lembaganya dengan Program Doktoral Ilmu Hayati Surabaya, nah lembaga ini bertugas buat menyeleksi calon calon mahasiswa S3 yang nantinya akan masuk di ITS atau Unair. Kita gak dapet gelar dari institusi penyeleksi ini, taoi Sederhananya, LSZGS ini bertugas buat menyeleksi kandidat yang akan masuk ETH Zurich atau University of Zurich. Terus nanti masuknya ke kampus yang mana? Nah, ini tergantung nanti temen temen terdaftarnya ke lab mana. Aku bakal bahas rinci di bawah, tapi kita mulai dari langkah umumnya dulu, yuk.
 
-# Langkah umum yang aka temen temen lalui
+# Langkah umum yang akan temen-temen lalui
 1. Mendaftar melalui portal website LSZGS
 * Membuat akun
 * Mengisi formulir pendaftaran
