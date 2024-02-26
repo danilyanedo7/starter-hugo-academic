@@ -8,7 +8,7 @@ categories: []
 date: 2024-02-26T11:44:38+07:00
 lastmod: 2024-02-26T11:44:38+07:00
 featured: false
-draft: true
+draft: false
 
 
 image:
