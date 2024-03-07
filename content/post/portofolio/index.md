@@ -54,6 +54,10 @@ For the tutorial and how I did the analysis, it can be accessed through this [li
 ![daytype](/spot_daytype.jpeg 'daytype')
 
 ### Personal Project: R geospatial and computing <a name="subparagraph3"></a>
+![](/mapst.jpeg '')
+![](/mapst1.jpeg '')
+![](/mapst2.jpeg '')
+![](/mapst3.jpeg '')
 ![](/map.jpeg '')
 ![](/map2.jpeg 'Portugal Forest Cover')
 ![](/map3.jpeg 'Bromo Tengger Semeru National Park')

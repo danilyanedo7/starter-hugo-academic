@@ -26,7 +26,7 @@ I fear disappointing my friends or facing their disapproval for choosing one par
 
 I know that everyone made mistakes, but I made terrible ones. I hate to admit it that I want to live this world a lil bit longer. But I am afraid of dissapointing my family. I tried to build all the imposible dreams and expectation slowly and surely. I survived to make them happy, it's not for me. I lost all my hopes long time ago, I just live a life I dont want to live.
 
-This is for my beloved friends Martin, Finda, Galuh, Izza, Biyu, Agung, Daris, Bayu, Yaya, Fahmi, and all of my friend I could not mention one by one. I slipped. I fail to be a good friend. I fail to meet your expectation. Oiya, tin, titip ya, you know everything that might be helpful for my family.
+This is for my beloved friends Martin, Finda, Galuh, Izza, Biyu, Agung, Daris, Dimas, Bayu, Yaya, Fahmi, and all of my friend I could not mention one by one. I slipped. I fail to be a good friend. I fail to meet your expectation. Oiya, tin, titip ya, you know everything that might be helpful for my family.
 
 I said that I want to live my life to the fullest, I dont want to die before experiencing the beauty of Banda Naira, lost in other contries, kissing under the maple tree. But, I think i fail to see snow in Vienna, I fail to see some other rains in Bern, I fail to eat pizza in Italy. and some other dreams that I just had few years ago.
 
