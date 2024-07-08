@@ -4,11 +4,11 @@ title: Edo Danilyan
 
 superuser: true
 
-role: Graduate Student
+role: PhD Researcher
 
 organizations:
-  - name: Institut Teknologi Sepuluh Nopember
-    url: https://www.its.ac.id/
+  - name: Universität Wien - Austria
+    url: https://cemess.univie.ac.at
 
 bio: Interested in computational biology.
 
@@ -23,6 +23,9 @@ interests:
 
 education:
   courses:
+    - course: PhD in Microbiology and Env. Science
+      institution: Universität Wien
+      year: 2024-Present
     - course: MSc in Biology
       institution: Institut Teknologi Sepuluh Nopember
       year: 2021-2023
