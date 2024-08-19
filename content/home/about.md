@@ -3,7 +3,7 @@ widget: about
 active: true
 headless: true
 weight: 20
-title: '[Edo Danilyan](https://edodanilyan.com/post/aboutme)'
+title: ''
 author: admin
 design:
   columns: '2'
