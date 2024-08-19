@@ -59,7 +59,9 @@ email: ''
 
 highlight_name: true
 ---
-Edo Danilyan is a fresh graduate from the Institut Teknologi Sepuluh Nopember, where he focuses on data analytics and computational biology. Edo has a wealth of experience in project design and management, data analysis and interpretation, and the development of research tools. He is known for his innovative thinking and his ability to come up with practical solutions to complex problems. His colleagues describe him as a driven, resourceful person who remains positive and proactive even in the face of challenges.
+I am **Edo**, a PhD researcher at the University of Vienna, where I get to explore the fascinating intersections of microbiology, data analytics and computational biology. My work revolves around making sense of complex environmental microbiology data.
+
+[About me ->](https://edodanilyan.com/post/aboutme)
 
 See my **data visualization** portfolio [here.]({{< relref "/post/portofolio" >}})
 

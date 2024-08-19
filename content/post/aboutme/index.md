@@ -19,18 +19,26 @@ projects: []
 ---
 <img class="special-img-class" style="width:40%" src="/aboutme.jpeg" alt="Master's Graduation" />
 
-## Language
-1. Bahasa Indonesia (Native)
-2. English (Full-professional Proficiency)
-3. German (Elementary)
 
-I am **Edo Danilyan**, and you can call me **Edo**. I recently graduated with a Master’s degree in biology from institut Teknologi Sepuluh Nopember. I possess written communication skills in English, focusing on research protocols, research papers, and science communication (Writing samples can be accessed through https://edodanilyan.com/tag/publication/, and storytelling using data https://edodanilyan.com/post/dashboard_collection/). Additionally, I am proficient in environmental microbiology analysis in R to analyze and visualize microbial genomic and environmental data with several packages including ggplot2, plotly, flexdashboard, and many more. My ability extends to statistical analysis using R as well (Portfolio can be accessed through https://edodanilyan.com/post/portofolio/)  with a wide range of mathematical and statistical analysis ranging from algebra and mathematics, data distribution, data analytics, hypothesis testing, optimization, and probability in tidyverse package environment. In terms of wet lab activity, I am familiar with molecular biology techniques since my research [project](https://edodanilyan.com/#projects) employs a variety of molecular biology techniques such as PCR, RT-qPCR, DNA/RNA extraction, and gel electrophoresis. I am also familiar with primer design, plasmid construction, and gene expression in bacteria.
+## Hey there!
 
-I am particularly interested in data analytics, computational biology, wildlife, conservation, biotechnology and the exploration of the potential of bacteria. Let's get in touch through my [contact](https://edodanilyan.com/#contact).
+I am **Edo Danilyan**, and you can call me **Edo**. I’m a PhD researcher at the University of Vienna, where I get to explore the fascinating intersections of microbiology, data analytics and computational biology. My work revolves around making sense of complex environmental microbiology data.
+
+Before getting into this PhD journey, I gained skills in project design, data analysis, and tool development, working on projects that demanded both creativity and precision during my undergrad and grad study at the [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id). I thrive on solving tough problems and finding practical solutions. 
+
+I’m a passionate R user and educator. I make tutorial for life science researcher to make sense their data [using R](https://github.com/danilyanedo7/biocomp), and dynamic, interactive, reproducible reports using R Markdown. Browse my list of [projects](/#projects) for examples of my work, a selection of [educational presentations](https://edodanilyan.com/post/dashboard_collection/), or review my full [curriculum vitae](https://edodanilyan.com/uploads/resume.pdf).
+
+I’m always on the lookout for exciting collaborations and new challenges, so feel free to [reach out](https://edodanilyan.com/#contact) if you want to create something amazing together! Let’s connect and see where our ideas can take us!
 
 Where I Worked:
 
 <iframe seamless = "" width = "100%" height = "500" class="shortcode-iframe" src="/leaflet/work_map.html"></iframe>
 
-Emmm, btw, thank you for visiting my websites!
+## Language
+1. Bahasa Indonesia (Native)
+2. English (Full-professional Proficiency)
+3. German (Elementary)
+4. Japanese (Elementary)
+
+Emmm, btw, thank you for visiting my website!
 
