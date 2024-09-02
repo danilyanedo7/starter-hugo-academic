@@ -65,7 +65,7 @@ I am **Edo**, a PhD researcher at the University of Vienna, where I get to explo
 
 See my **data visualization** portfolio [here.]({{< relref "/post/portofolio" >}})
 
-See also my **photography** portfolio [here.](https://edodanilyan.myportfolio.com)
+See also my **photography** portfolio [here.](https://danilyan.myportfolio.com)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
