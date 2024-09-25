@@ -14,7 +14,7 @@ author_notes:
   - 'Corresponding Author'
 
 date: 2024-08-01T11:32:21+07:00
-doi: "https://doi.org/10.1080/15226514.2022.2103094"
+doi: ""
 
 publishDate: 2024-08-01T11:32:21+07:00
 
