@@ -1,7 +1,7 @@
 ---
 title: "BITS Mengajar"
 summary: "BITS Mengajar is a supporting program under social development division in Biology ITS student association at Institut Teknologi Sepuluh Nopember"
-authors: []
+authors: [admin]
 tags: [ComDev]
 categories: []
 date: 2022-08-07T14:15:17+07:00

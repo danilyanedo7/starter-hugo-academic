@@ -17,6 +17,20 @@ item:
   #   title: Neural Networks and Deep Learning
   #   url: ''
   - #certificate_url: https://drive.google.com/file/d/1Evh4KqFrkpNUmvTdvgjQ5mjl35azRzKO/view
+    date_end: '2024-10-27'
+    date_start: '2024-10-19'
+    description: Land Cover Classification using Satellite Imagery with Different Machine Learning Algorithms
+    organization: GeosoftwareID
+    organization_url: https://www.instagram.com/geosoftware.id/?hl=en
+    title: Python for Geospatial Raster Data
+  - #certificate_url: https://drive.google.com/file/d/1Evh4KqFrkpNUmvTdvgjQ5mjl35azRzKO/view
+    date_end: '2024-09-22'
+    date_start: '2024-09-14'
+    description: Time Series Data Analysis and Visualization and Making Forecasts with the R Programming Language
+    organization: GeosoftwareID
+    organization_url: https://www.instagram.com/geosoftware.id/?hl=en
+    title: Time Series Data Analysis and Visualization
+  - #certificate_url: https://drive.google.com/file/d/1Evh4KqFrkpNUmvTdvgjQ5mjl35azRzKO/view
     date_end: '2022-07-02'
     date_start: '2022-05-07'
     description: Organized by Office of International Affair and sponsored by the Ministry of Education Taiwan

@@ -10,7 +10,7 @@ tags:
   - dataviz
 date: '2021-02-27T00:00:00Z'
 external_link: ''
-
+authors: [admin, Sabila Fatimah, Enny Zulaika]
 image:
   caption: Phyltree
   focal_point: Smart

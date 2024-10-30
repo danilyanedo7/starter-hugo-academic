@@ -3,7 +3,7 @@
 
 title: "Mentoring for Undergraduate Student"
 summary: "A mini mentoring project for undergraduate student, the overall goal of the mentoring project is to provide guidance and support to students in their academic and personal development. The objective of the project is to help students navigate their undergraduate years successfully and provide them with the resources they need to succeed in their chosen field of study."
-authors: []
+authors: [admin]
 tags: [ComDev]
 categories: []
 date: 2023-06-25T17:36:08+07:00
