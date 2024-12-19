@@ -59,14 +59,20 @@ email: ''
 
 highlight_name: true
 ---
-I am **Edo**, a PhD researcher at the University of Vienna, where I get to explore the fascinating intersections of microbiology, data analytics and computational biology. My work revolves around making sense of complex environmental microbiology data.
+I’m **Edo Danilyan**, but feel free to call me **Edo**. I’m a PhD researcher at the University of Vienna, diving into the exciting world where microbiology meets data analytics and computational biology. My research focuses on unraveling the complexities of environmental microbiology using advanced data-driven approaches.  
 
-[About me ->](https://edodanilyan.com/post/aboutme)
-
-See my **data visualization** portfolio [here.]({{< relref "/post/portofolio" >}})
-
-See also my **photography** portfolio [here.](https://danilyan.myportfolio.com)
+[Learn more about me →](https://edodanilyan.com/post/aboutme)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+### Explore My Work
+
+- **Data Visualization Portfolio**  
+  [View here]({{< relref "/post/portofolio" >}})
+
+- **Photography Portfolio**  
+  [View here](https://danilyan.myportfolio.com)
+
+
 
 

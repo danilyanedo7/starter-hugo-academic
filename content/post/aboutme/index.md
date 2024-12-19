@@ -20,15 +20,16 @@ projects: []
 <img class="special-img-class" style="width:40%" src="/aboutme.jpeg" alt="Master's Graduation" />
 
 
-## Hey there!
 
-I am **Edo Danilyan**, and you can call me **Edo**. I’m a PhD researcher at the University of Vienna, where I get to explore the fascinating intersections of microbiology, data analytics and computational biology. My work revolves around making sense of complex environmental microbiology data.
+## Hey there!  
 
-Before getting into this PhD journey, I gained skills in project design, data analysis, and tool development, working on projects that demanded both creativity and precision during my undergrad and grad study at the [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id). I thrive on solving tough problems and finding practical solutions. 
+I’m **Edo Danilyan**, but feel free to call me **Edo**. I’m a PhD researcher at the University of Vienna, diving into the exciting world where microbiology meets data analytics and computational biology. My research focuses on unraveling the complexities of environmental microbiology using advanced data-driven approaches.  
 
-I’m a passionate R user and educator. I make tutorial for life science researcher to make sense their data [using R](https://github.com/danilyanedo7/biocomp), and dynamic, interactive, reproducible reports using R Markdown. Browse my list of [projects](/#projects) for examples of my work, a selection of [educational presentations](https://edodanilyan.com/post/dashboard_collection/), or review my full [curriculum vitae](https://edodanilyan.com/uploads/resume.pdf).
+Before starting my PhD journey, I honed my skills in project design, data analysis, and tool development while working on innovative projects during my undergraduate and graduate studies at [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id). I love tackling tough problems and crafting practical solutions that make an impact.  
 
-I’m always on the lookout for exciting collaborations and new challenges, so feel free to [reach out](https://edodanilyan.com/#contact) if you want to create something amazing together! Let’s connect and see where our ideas can take us!
+I’m also passionate about **R programming** and education. I create tutorials to help life science researchers make sense of their data using [R](https://github.com/danilyanedo7/biocomp) and build dynamic, interactive, and reproducible reports with R Markdown. Check out my [projects](/#projects) for examples of my work, browse through some of my [educational presentations](https://edodanilyan.com/post/dashboard_collection/), or explore my full [curriculum vitae](https://edodanilyan.com/uploads/resume.pdf).  
+
+I’m always open to exciting collaborations and new challenges. If you’re looking to create something amazing, let’s connect! [Reach out](https://edodanilyan.com/#contact), and let’s see where our ideas can take us.  
 
 Where I Worked:
 
