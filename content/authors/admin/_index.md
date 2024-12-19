@@ -63,7 +63,7 @@ I’m **Edo Danilyan**, but feel free to call me **Edo**. I’m a PhD researcher
 
 [Learn more about me →](https://edodanilyan.com/post/aboutme)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
 
 ### Explore My Work
 
