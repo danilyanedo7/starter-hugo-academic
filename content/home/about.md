@@ -3,7 +3,7 @@ widget: about
 active: true
 headless: true
 weight: 20
-title: ''
+title: 'Hi and welcome'
 author: admin
 design:
   columns: '2'

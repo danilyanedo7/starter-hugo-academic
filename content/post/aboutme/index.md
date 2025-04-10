@@ -1,7 +1,7 @@
 ---
-title: "About Me"
-subtitle: "Hi, welcome to my website"
-summary: "Hi, welcome to my website"
+title: "Hey there!"
+subtitle: "Welcome to my website"
+summary: ""
 authors: []
 tags: []
 categories: []
@@ -17,15 +17,23 @@ image:
 
 projects: []
 ---
-<img class="special-img-class" style="width:40%" src="/aboutme.jpeg" alt="Master's Graduation" />
 
+> “I have no special talent. I am only passionately curious.”  
+> — *Albert Einstein*
+
+<img class="special-img-class" style="width:40%" src="/aboutme.jpeg" alt="Master's Graduation" />
 
 
 ## Hey there!  
 
-I’m **Edo Danilyan**, but feel free to call me **Edo**. I’m a PhD researcher at the University of Vienna, diving into the exciting world where microbiology meets data analytics and computational biology. My research focuses on unraveling the complexities of environmental microbiology using advanced data-driven approaches.  
+I'm a researcher curious about the invisible lives of microbes and the rules that govern them, from single cells to entire ecosystems. My work combines field observations, controlled experiments, and a bit of programming magic to explore how microbial communities grow, interact, and adapt across environments.
 
-Before starting my PhD journey, I honed my skills in project design, data analysis, and tool development while working on innovative projects during my undergraduate and graduate studies at [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id). I love tackling tough problems and crafting practical solutions that make an impact.  
+Right now, I’m pursuing my PhD as part of the **FWF Microplanet: Microbiomes Drive Planetary Health** project, where I study microbial biomass and metabolism, particularly in aquatic systems. I spend a good amount of time tinkering with lifescale, running chemostats, culturing microbes, and writing code to make sense of all the data.
+
+I'm happiest when science meets storytelling, whether it's through thoughtful data visualizations, reproducible code, or simply making complex ideas a bit easier to grasp. I'm a big believer in open science and in building tools that others can learn from, adapt, or even break (and then fix better!).
+
+When I’m not working, I like to wander around with a sketchbook or camera, obsess over [maps](/post/portofolio/#subparagraph3), or dive into old-school biology textbooks for inspiration.
+![](/java_pops.png '') 
 
 I’m also passionate about **R programming** and education. I create tutorials to help life science researchers make sense of their data using [R](https://github.com/danilyanedo7/biocomp) and build dynamic, interactive, and reproducible reports with R Markdown. Check out my [projects](/#projects) for examples of my work, browse through some of my [educational presentations](https://edodanilyan.com/post/dashboard_collection/), or explore my full [curriculum vitae](https://edodanilyan.com/uploads/resume.pdf).  
 
@@ -38,8 +46,5 @@ Where I Worked:
 ## Language
 1. Bahasa Indonesia (Native)
 2. English (Full-professional Proficiency)
-3. German (Elementary)
+3. German (Baby level)
 4. Japanese (Elementary)
-
-Emmm, btw, thank you for visiting my website!
-
