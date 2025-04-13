@@ -63,7 +63,7 @@ My name is **Edo Danilyan**, but feel free to call me **Edo**. I’m a PhD resea
 
 On this site, you'll find a mix of my scientific work, snapshots from field adventures, and some small but exciting coding projects, mostly in R, sometimes elsewhere. 
 
-You can explore everything chronologically or jump straight to the sections on [code](/tag/r/), [science](/tag/research/), or [fieldwork (photograhy gallery)](https://danilyan.myportfolio.com/), whatever suits your curiosity. Below, you’ll find my experience, recent publications, projects, and tutorials.
+You can explore everything chronologically or jump straight to the sections on [code](/tag/r/), [science](/tag/research/), or [fieldwork (photography gallery)](https://danilyan.myportfolio.com/), whatever suits your curiosity. Below, you’ll find my experience, recent publications, projects, and tutorials.
 
 ### Learn more about me [→](/post/aboutme)
 
@@ -72,10 +72,10 @@ You can explore everything chronologically or jump straight to the sections on [
 ### Explore My Work
 
 - **Data Visualization Portfolio**  
-  [View here]({{< relref "/post/portofolio" >}})
+  [Explore the gallery →]({{< relref "/post/portofolio" >}})
 
 - **Photography Portfolio**  
-  [View here](https://danilyan.myportfolio.com)
+  [Field and landscape photos →](https://danilyan.myportfolio.com)
 
 
 
