@@ -1,39 +1,77 @@
 ---
-
-title: "Module: Microbial Systematic Course"
-summary: Welcome to the computational microbiology, a key component of our Microbial Systematic course. This project aims to provide students with a hands-on experience in studying and understanding the vast world of microbial life. This project will enhance your knowledge of microbial taxonomy, classification, and identification.
-
+title: "Module: Microbial Systematics Course"
+summary: A hands-on learning module on computational microbiology, focused on microbial taxonomy, classification, and phylogenetic analysis using R.
 tags:
   - Research
   - Portfolio
   - R
-  - dataviz
+  - Data Visualization
+  - Teaching
 date: '2021-02-27T00:00:00Z'
 external_link: ''
 authors: [admin, Sabila Fatimah, Enny Zulaika]
+
 image:
-  caption: Phyltree
+  caption: Phylogenetic Tree
   focal_point: Smart
 
 links:
   - icon: goodreads
     icon_pack: fa
-    name: Books
+    name: Course Materials
     url: https://danilyanedo7.github.io/praktikumsismikbits/
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
-slides: ""
+slides: ''
 ---
+
+## Module: Computational Microbiology in the Microbial Systematics Course
+
+Welcome to **Computational Microbiology**, a core component of the *Microbial Systematics* course. This module was developed to give students practical experience in analyzing microbial diversity and understanding the principles of taxonomy and classification using real-world data.
+
+> This project was created during my time as a **lab assistant** in the Microbial Systematics course at **Institut Teknologi Sepuluh Nopember (ITS) Surabaya**.
+
+---
+
 ## Module Objectives
-Explore various microbial samples collected from diverse environments, ranging from soil and water to unique ecological niches. Apply taxonomic principles to identify and classify these microorganisms using computational biology techniques in R Studio.
 
-These module cover:
-1. Dataset Preparation: Choose a set of diverse microbial species for phylogenetic analysis, considering different environments and taxonomic groups.
-2. GenBank Data Retrieval: Access GenBank and retrieve genetic data for a diverse range of microbial species.
-3. Sequence Alignment: Utilize bioinformatics tools to align the obtained DNA sequences, ensuring accurate comparisons and identification of conserved regions.
-4. Phylogenetic Tree Construction: Employ phylogenetic tree-building algorithms to construct evolutionary trees based on the aligned sequences. Explore various methods, such as neighbor-joining or maximum likelihood, to understand their impact on tree topology.
+Students will explore microbial samples from various environments, ranging from soil and water to more specialized ecosystems—and apply **computational tools in R** to:
 
-These module only available in Bahasa Indonesia.
+- Understand microbial taxonomy and classification
+- Retrieve and align genetic sequences
+- Construct and interpret phylogenetic trees
+
+---
+
+## What You'll Learn
+
+1. **Dataset Preparation**  
+   Select diverse microbial species from various ecological niches for phylogenetic analysis.
+
+2. **Genetic Data Retrieval**  
+   Access and retrieve DNA sequence data from **GenBank** for selected microbial taxa.
+
+3. **Sequence Alignment**  
+   Perform multiple sequence alignment using bioinformatics tools to identify conserved regions and ensure accurate comparisons.
+
+4. **Phylogenetic Tree Construction**  
+   Build evolutionary trees using methods like **neighbor-joining** or **maximum likelihood**, and learn how different approaches impact the resulting topology.
+
+---
+
+**Note:** This module is currently available in **Bahasa Indonesia**.
+
+---
+
+## Explore the Module
+
+[View Course Materials](https://danilyanedo7.github.io/praktikumsismikbits/)
+
+---
+
+### Want to Collaborate?
+
+I'm always open to discussing education projects, bioinformatics modules, or teaching collaborations. Feel free to [get in touch](/#contact)!
