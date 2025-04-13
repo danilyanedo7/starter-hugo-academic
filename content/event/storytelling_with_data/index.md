@@ -12,7 +12,7 @@ address:
   country: Indonesia
 
 summary: A chill and practical session on how to tell better stories using data, especially for students in science and bioinformatics.
-date: '2023-08-18T09:00:00Z'
+date: '2025-01-10T09:00:00Z'
 all_day: false
 
 authors: [admin]
@@ -38,14 +38,13 @@ projects: []
 
 If you missed it, you can catch the full session here:
 
-<iframe width="700" height="400" src="https://youtu.be/H6otInBgYW0?si=q36tNXddABcYNVp6" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/H6otInBgYW0?si=u85E8px_A986S3sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Or open it directly on [YouTube](https://youtu.be/H6otInBgYW0?si=q36tNXddABcYNVp6).
 
 ---
 
 ## Storytelling with Data  
-**Guest Talk – Bioinformatics Study Club, ITS**
 
 I was invited by the Bioinformatics study club at ITS to share some thoughts on a topic I love: **Storytelling with Data**.
 
