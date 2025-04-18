@@ -56,7 +56,7 @@ It was a casual and fun session where we talked about:
 
 We also got into some R-based workflows, including:
 - Using `ggplot2` for clean, flexible visuals
-- Telling temporal stories with animated plots (`gganimate`)
+- Telling temporal stories with animated plots with `gganimate`
 - Making geospatial stories with `leaflet` and `tmap`
 - Tips on choosing the *right* chart for your message
 
@@ -65,7 +65,7 @@ We also got into some R-based workflows, including:
 ### A Few Key Takeaways
 
 - **Good data viz is about clarity, not decoration**  
-- Always start with your audience in mind, what do *they* need to see?
+- Always start with your audience in mind, what do they need to see?
 - Use visual hierarchy and layout to guide attention
 - Color, size, and motion can help (but only if used with purpose)
 - Tidy data makes your life easier, learn the grammar of graphics!
