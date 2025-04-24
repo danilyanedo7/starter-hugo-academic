@@ -19,3 +19,13 @@ name = "my_theme"
   background = "rgb(255, 255, 255)" # page background
   home_section_odd = "rgb(255, 255, 255)" # white
   home_section_even = "#fafafb" # light gray
+
+  # Optional Google font URL
+  google_fonts = ""
+
+  # Font families
+  heading_font = "Satoshi"
+  body_font = "Satoshi"
+  nav_font = "Satoshi"
+  mono_font = "Satoshi"
+

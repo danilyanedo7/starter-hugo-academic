@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: my_theme
-  font: minimal
+  font: my_theme
   font_size: M
 
 # SEO
@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Copyright ©, 2016-2023 Edo Danilyan, All Rights Reserved'
+    notice: 'Copyright ©, 2016-2025 Edo Danilyan, All Rights Reserved'
     license:
       enable: false
       allow_derivatives: false
@@ -110,3 +110,6 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+plugins_css:
+  - custom
