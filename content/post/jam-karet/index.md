@@ -30,7 +30,6 @@ I started asking people. Not just to complain, but to genuinely understand how w
 
 *Mari kita bahas*
 
----
 
 ## From a time perspective: A point or a range?
 
@@ -39,8 +38,6 @@ But in Indonesia? Time is often seen as an *approximate direction*. “7 PM” u
 
 This isn’t about laziness or disrespect. People often *intend* to be on time. But over the years, we’ve built a culture where lateness is tolerated, and even expected. Come on :"
 
----
-
 ## A culture of harmony over punctuality
 
 In many Western cultures, especially in work or business, time is money. Being late is seen as a sign of unprofessionalism or inefficiency. But in Indonesia—and many collectivist cultures—what matters more is **social harmony**.
@@ -48,8 +45,6 @@ In many Western cultures, especially in work or business, time is money. Being l
 Imagine this: you’re running late for a meeting, but on the way, your neighbor asks for help with something. You stop to help because relationships matter. Arriving late might seem “bad” in a schedule sense, but not stopping to help might be worse *socially*.
 
 The result? We tend to forgive lateness because we value connection over the clock.
-
----
 
 ## The Vicious Cycle of “Everyone’s Late Anyway”
 
@@ -70,8 +65,6 @@ And here’s the kicker: I even wrote a short reflection piece about it. Thought
 
 But that experience stuck with me. It made me realize just how deeply this “rubber time” mindset is ingrained—and how even questioning it can feel like a rebellion.
 
----
-
 ## So What Can We Do?
 
 Let’s be honest: shifting an entire culture isn’t easy. But small things help:
@@ -79,8 +72,6 @@ Let’s be honest: shifting an entire culture isn’t easy. But small things hel
 - **Be realistic with scheduling.** If you know things never start on time, either *actually* start on time, or just set the time 15 minutes later to match reality.
 - **Value people’s time out loud.** Say it: “Hey, I really appreciate you being on time.” Positive reinforcement goes a long way.
 - **Start anyway.** One of the strongest signals that things will change is when events start as scheduled, regardless of who’s there.
-
----
 
 ## Final thoughts, perhaps
 
