@@ -40,7 +40,7 @@ This isn’t about laziness or disrespect. People often *intend* to be on time. 
 
 ## A culture of harmony over punctuality
 
-In many Western cultures, especially in work or business, time is money. Being late is seen as a sign of unprofessionalism or inefficiency. But in Indonesia—and many collectivist cultures—what matters more is **social harmony**.
+In many Western cultures, especially in work or business, time is money. Being late is seen as a sign of unprofessionalism or inefficiency. But in Indonesia, and many collectivist cultures, what matters more is **social harmony**.
 
 Imagine this: you’re running late for a meeting, but on the way, your neighbor asks for help with something. You stop to help because relationships matter. Arriving late might seem “bad” in a schedule sense, but not stopping to help might be worse *socially*.
 
@@ -63,7 +63,7 @@ If we’re talking about fairness, shouldn’t we “kasihan” those who made t
 
 And here’s the kicker: I even wrote a short reflection piece about it. Thought it’d be a fun little critique. But instead of sparking discussion, I got “called in” by some senior students. Yeah… let’s just say it was more of a *lecture* than a chat.
 
-But that experience stuck with me. It made me realize just how deeply this “rubber time” mindset is ingrained—and how even questioning it can feel like a rebellion.
+But that experience stuck with me. It made me realize just how deeply this “rubber time” mindset is ingrained, and how even questioning it can feel like a rebellion.
 
 ## So What Can We Do?
 
@@ -73,11 +73,8 @@ Let’s be honest: shifting an entire culture isn’t easy. But small things hel
 - **Value people’s time out loud.** Say it: “Hey, I really appreciate you being on time.” Positive reinforcement goes a long way.
 - **Start anyway.** One of the strongest signals that things will change is when events start as scheduled, regardless of who’s there.
 
-## Final thoughts, perhaps
-
 “Jam karet” isn’t just about being late, it’s a mirror of how we see time, relationships, and expectations. It tells a story of kindness, flexibility, and sometimes… a bit of chaos.
 
 But maybe, just maybe, valuing each other’s time *is* a form of respect too.  
 What if the future version of Indonesia is not just warm and communal, but also right on time?
 
-I don't know, cuy. Hahahaha
