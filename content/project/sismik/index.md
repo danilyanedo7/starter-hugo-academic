@@ -38,7 +38,7 @@ Welcome to **Computational Microbiology**, a core component of the *Microbial Sy
 
 ## Module Objectives
 
-Students will explore microbial samples from various environments, ranging from soil and water to more specialized ecosystems—and apply **computational tools in R** to:
+Students will explore microbial samples from various environments, ranging from soil and water to more specialized ecosystems,and apply **computational tools in R** to:
 
 - Understand microbial taxonomy and classification
 - Retrieve and align genetic sequences

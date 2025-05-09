@@ -27,7 +27,7 @@ url_video: ""
 slides: ""
 ---
 
-Welcome! This is a **friendly and beginner-accessible open-source book** created to help you explore the fascinating world of data visualization—one chart at a time.
+Welcome! This is a **friendly and beginner-accessible open-source book** created to help you explore the fascinating world of data visualization, one chart at a time.
 
 Through this project, I share:
 - My personal contributions to the **30 Day Chart Challenge**

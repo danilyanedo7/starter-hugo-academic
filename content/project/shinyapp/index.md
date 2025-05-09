@@ -23,7 +23,7 @@ url_video: ""
 slides: ""
 ---
 
-Welcome! This is my first R Shiny project—a collection of simple, interactive apps designed to support biologists working in **biodiversity monitoring** and **species distribution mapping**.
+Welcome! This is my first R Shiny project, a collection of simple, interactive apps designed to support biologists working in **biodiversity monitoring** and **species distribution mapping**.
 
 These apps:
 - Allow users to upload and explore biodiversity datasets

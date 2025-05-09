@@ -88,7 +88,7 @@ A few months later, something unexpected happened. There was a campus expo in Bo
 
 At Primagama, I met people who brought a different energy. There was a sense of healthy competition, but also a lot of encouragement and openness. I felt lucky to be part of it and was genuinely thankful to Primagama Bondowoso for giving me that chance.
 
-We only had one month to prepare, and the pressure was high. We were pushed to aim for Indonesia’s top universities and competitive programs like medicine. I listed ITB as my first choice, followed by ITS and IPB. Then, in 2018, the announcement came—and it changed everything. I had been accepted into ITS.
+We only had one month to prepare, and the pressure was high. We were pushed to aim for Indonesia’s top universities and competitive programs like medicine. I listed ITB as my first choice, followed by ITS and IPB. Then, in 2018, the announcement came, and it changed everything. I had been accepted into ITS.
 
 
 ### Part 4: University and Beyond
@@ -113,7 +113,7 @@ Back home, I kept pushing myself. I joined scientific writing and business compe
 
 In 2022, things took another positive turn. I was offered a full-time remote job with a company based in Jakarta. It gave me financial stability and professional experience while I was still continuing my studies. Around the same time, I received an Erasmus+ scholarship to study in Poland, which took my academic and cultural journey to a whole new level.
 
-The opportunities kept coming. I had already been awarded a fast-track scholarship that allowed me to accelerate my studies, and with all the support and experiences I had gathered, I eventually graduated with a master’s degree, earning the title of best graduate in my cohort. I still look back and think: who would’ve imagined that a kid from a small, remote, unknown corner of Bondowoso could come this far?
+The opportunities kept coming. I had already been awarded a fast-track scholarship that allowed me to accelerate my studies, and with all the support and experiences I had gathered, I eventually graduated with a master’s degree, earning the title of best graduate in my cohort. I still look back and think: who would’ve imagined that a poor kid from a small, remote, unknown corner of Bondowoso could come this far?
 
 <figure style="width:50%; margin: 0 auto; text-align: center;">
   <img class="special-img-class" src="/aboutme.jpeg" alt="A rare moment where I actually believed in myself :D" style="width:100%;">

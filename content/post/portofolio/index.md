@@ -102,7 +102,7 @@ Perfect for dynamic presentations and highlighting temporal patterns.
 
 # Interactive Visualizations <a name="interact"></a>  
 
-Interactive visualizations let users explore data directly—zoom, hover, filter, and more. This enhances storytelling and allows for deeper engagement with complex datasets.  
+Interactive visualizations let users explore data directly, zoom, hover, filter, and more. This enhances storytelling and allows for deeper engagement with complex datasets.  
 <iframe width="700" height="500" frameborder="0" scrolling="yes" src="//plotly.com/~danilyanedo/1.embed"></iframe>  
 
 ---

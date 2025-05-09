@@ -20,7 +20,7 @@ projects: []
 
 So here’s something that’s been bugging me for a while.
 
-I grew up in Indonesia, and like many of us, I got used to events nwver starting on time. Family gatherings, meetings, hangouts with friends—there’s almost always a delay. A meeting scheduled for 7 PM? It won’t really start until 7:15 or even 7:30. And somehow, nobody seems too bothered. We even have a name for it: **jam karet**, or *rubber time*.
+I grew up in Indonesia, and like many of us, I got used to events nwver starting on time. Family gatherings, meetings, hangouts with friends, there’s almost always a delay. A meeting scheduled for 7 PM? It won’t really start until 7:15 or even 7:30. And somehow, nobody seems too bothered. We even have a name for it: **jam karet**, or *rubber time*.
 
 But the more I started noticing this, the more I found myself wondering '*why?*'
 
@@ -53,7 +53,7 @@ It becomes a **self-reinforcing loop**: no one’s on time, because no one expec
 
 Sometimes, it goes further.
 
-Let me tell you something that happened back when I was a college freshman, masih maba bro, bayangin. There was this event—nothing too fancy, but we were told to come at a specific time. I showed up on time. Others did too. But we waited… and waited… and waited. The event didn’t start for another 15 to 30 minutes.
+Let me tell you something that happened back when I was a college freshman, masih maba bro, bayangin. There was this event, nothing too fancy, but we were told to come at a specific time. I showed up on time. Others did too. But we waited… and waited… and waited. The event didn’t start for another 15 to 30 minutes.
 
 Why? Because they said, *“Kasihan yang telat.”*
 
