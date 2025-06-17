@@ -4,7 +4,7 @@ title: "How does it feel like to have dreams?"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [academic, experience]
+tags: [Academic, Experience]
 categories: []
 date: 2024-06-30T22:37:32+07:00
 lastmod: 2025-01-30T22:37:32+07:00

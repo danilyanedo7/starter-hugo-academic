@@ -18,22 +18,20 @@ image:
 projects: []
 ---
 
-Some of you might asked what kind of post this time, let me tell you one thing. The study abroad series will discontinued. 
+To those who care,
 
-You might find that I am bright, kind, full of positivity and so on and so  fort. I hate it when people see human as a black and white, we are grey with diffrent concentration of black and white. No, I am full of bullshit, I am afraid of many things, I am a coward maybe.
+Some of you might be wondering what kind of post this is. Let me start by saying this, I’ve decided to discontinue the Study Abroad series. Not because the story isn’t worth telling, but because I’m not in a place where I can keep writing it, at least not right now.
 
-I fear disappointing my friends or facing their disapproval for choosing one party over the other. To avoid potential conflict or hurt feelings, I tell lies. I want to maintain positive relationships with everyone. By lying about my reasons for certain things, I hope to avoid any perceived favoritism or exclusion. I live with no other than loneliness, I fear of losing someone. My decision to lie may be influenced by societal norms that prioritize maintaining social harmony and avoiding confrontation. Or maybe I am just bad. I may convince myself that my lie is justified because I believe it's for the greater good of preserving my friendships and avoiding conflict. But, it's not the case. I am too dumb and i feel like more toward black color at this point. I feel like I don't deserve anyone.
+I know how some of you see me as bright, kind, full of positivity. But that’s only part of the truth. People aren’t black or white. We’re all grey, we're shaped by our fears, regrets, dreams, and doubts. And if I’m being honest, I’ve been carrying a lot of darkness lately.
 
-I know that everyone made mistakes, but I made terrible ones. I hate to admit it that I want to live this world a lil bit longer. But I am afraid of dissapointing my family. I tried to build all the imposible dreams and expectation slowly and surely. I survived to make them happy, it's not for me. I lost all my hopes long time ago, I just live a life I dont want to live.
+Isn’t it strange how the people who show the most love are often the ones who never really felt it themselve? They learned to comfort because no one ever comforted them. They learned to listen because no one ever asked how they felt. They just want someone to notice they’re stuck. But no one sees where that kindness came from. Because it wasn’t taught, it was built in quiet rooms, on alonely nights, annd from wounds they never showed. They give everything, hoping someone might give just enough in return. But most people don’t notice. They’re too used to receiving the love. If that’s you... you might understand me a lil bit better.
 
-This is for my beloved friends Martin, Finda, Galuh, Izza, Biyu, Agung, Daris, Dimas, Bayu, Yaya, Fahmi, and all of my friend I could not mention one by one. I slipped. I fail to be a good friend. I fail to meet your expectation. Oiya, tin, titip ya, you know everything that might be helpful for my family.
+I lie sometimes, not to deceive, but fear. Fear of disapointing people. Fear of being rejected. I try to please everyone, keep the peace, avoid conflict, keep the friendships intact. But in doing so, I’ve drifted from who I am. I’ve become someone I don’t recognize,someone I don’t always like.
 
-I said that I want to live my life to the fullest, I dont want to die before experiencing the beauty of Banda Naira, lost in other contries, kissing under the maple tree. But, I think i fail to see snow in Vienna, I fail to see some other rains in Bern, I fail to eat pizza in Italy. and some other dreams that I just had few years ago.
+The truth is, I feel lonely, even in the presence of many. I fear losing people. I fear not being enough. And most days, I’m not sure what I’m holding onto anymore. I built dreams not for myself, but for others, to make my family proud, to meet expectations I never asked for but took on anyway. I survived, not because I was strong, but because I thought I had to.
 
-Plese let the doctoral school of UniVie know that I am not be able to start anything anymore, please.
+I’m tired. To my beloved friends, Martin, Galuh, Izza, Biyu, Agung, Daris, Dimas, Bayu, Yaya, Fahmi, and so many others I can’t name one by one, I’m sorry. I slipped. I wasn’t the friend I wanted to be. I let you down in ways I can’t even explain. Tin, if anything happens, please, help my family in any way you can. You know what I mean.
+
+I once said I wanted to live life to the fullest. I wanted to see Banda Naira, get lost in foreign cities, kiss someone under a maple tree. But somewhere along the way, those dreams faded. I may not see rain in Bern. I may not eat pizza in Italy or chase the silly hopes I held onto for so long. 
 
 Tante, adik selalu berusaha buat tante dan om seneng, kita sama sama berjuang melewati banyak hal. Tapi kali ini adik takut akan penolakan. Adik takut buat lihat tate dan om kecewa. Adik sudah lelah sama banyak hal. Maaf ya adik belum bisa jalan lebih jauh lagi, maafkan adik. Adik sayang sekali sama tante dan om.
-
-
-
-
