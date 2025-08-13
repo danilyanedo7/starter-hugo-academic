@@ -15,6 +15,6 @@ main:
   - name: Brainy Stuff
     url: '#publications'
     weight: 40
-  - name: Contact
+  - name: Let's Talk
     url: '#contact'
     weight: 50

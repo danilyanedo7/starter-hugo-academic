@@ -27,7 +27,7 @@ Hi! I’m Edo Danilyan, a PhD researcher at the University of Vienna. My work fo
 
 Right now, I’m pursuing my PhD as part of the **FWF Microplanet: Microbiomes Drive Planetary Health** project, where I study microbial biomass and metabolism, particularly in aquatic systems. I spend a good amount of time tinkering with lifescale, running chemostats, culturing microbes, and writing code to make sense of all the data.
 
-Before my PhD, I earned my bachelor’s and master’s degrees in biology from Institut Teknologi Sepuluh Nopember. During that time, I worked on projects ranging from microbial applications in sustainable construction to environmental microbiology. Along the way, I discovered that I enjoyed the process of asking questions as much as finding the answers.
+Before my PhD, I earned my bachelor’s and master’s degrees in biology from Institut Teknologi Sepuluh Nopember. During that time, I worked on projects ranging from microbial applications in sustainable construction to environmental microbiology. Along the way, I discovered that I enjoyed the process of asking questions as much as finding the answers. [Read the full story here](/post/dream)
 
 I'm happiest when science meets storytelling, whether it's through thoughtful data visualizations, reproducible code, or simply making complex ideas a bit easier to grasp. I'm a big believer in open science and in building tools that others can learn from, adapt, or even break (and then fix better!).
 
