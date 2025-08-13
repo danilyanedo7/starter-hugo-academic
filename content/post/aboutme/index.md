@@ -21,11 +21,18 @@ projects: []
 > “I have no special talent. I am only passionately curious.”  
 > — *Albert Einstein*
 
-<img class="special-img-class" style="width:40%" src="/aboutme.jpeg" alt="Master's Graduation" />
+<div class="row">
+  <div class="col-md-4">
+    <img src="/aboutme.jpeg" alt="Master's Graduation" style="width:100%; border-radius:12px;">
+  </div>
+  <div class="col-md-8">
+    <h2> _</h2>
+    <p>I’m a PhD researcher at the University of Vienna. My work focuses on understanding how microbes grow, interact, and influence the environments they live in. My work combines field observations, controlled experiments, and a bit of programming magic to explore how microbial communities grow, interact, and adapt across environments.</p>
+    <p><a href="/post/dream">Read the full story →</a></p>
+  </div>
+</div>
 
-Hi! I’m Edo Danilyan, a PhD researcher at the University of Vienna. My work focuses on understanding how microbes grow, interact, and influence the environments they live in. My work combines field observations, controlled experiments, and a bit of programming magic to explore how microbial communities grow, interact, and adapt across environments.
-
-Right now, I’m pursuing my PhD as part of the **FWF Microplanet: Microbiomes Drive Planetary Health** project, where I study microbial biomass and metabolism, particularly in aquatic systems. I spend a good amount of time tinkering with lifescale, running chemostats, culturing microbes, and writing code to make sense of all the data.
+Right now, I’m pursuing my PhD as part of the **FWF Cluster of Excellence - Microplanet: Microbiomes Drive Planetary Health** project, where I study microbial biomass and metabolism, particularly in aquatic systems. I spend a good amount of time tinkering with lifescale, running chemostats, culturing microbes, and writing code to make sense of all the data.
 
 Before my PhD, I earned my bachelor’s and master’s degrees in biology from Institut Teknologi Sepuluh Nopember. During that time, I worked on projects ranging from microbial applications in sustainable construction to environmental microbiology. Along the way, I discovered that I enjoyed the process of asking questions as much as finding the answers. [Read the full story here](/post/dream)
 
@@ -43,3 +50,5 @@ I’m always open to exciting collaborations and new challenges. If you’re loo
 2. English (Full-professional Proficiency)
 3. German (I can order coffee and complain about grammar)
 4. Japanese (I can say ‘thank you’ like a pro)
+
+
