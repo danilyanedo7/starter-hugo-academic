@@ -12,7 +12,7 @@ main:
   - name: Talks
     url: '#talks'
     weight: 30
-  - name: Publications
+  - name: Brainy Stuff
     url: '#publications'
     weight: 40
   - name: Contact

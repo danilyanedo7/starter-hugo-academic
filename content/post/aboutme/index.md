@@ -1,6 +1,6 @@
 ---
 title: "Hey there!"
-subtitle: "Welcome to my website"
+subtitle: "So glad you're here"
 summary: ""
 authors: []
 tags: []
@@ -23,12 +23,11 @@ projects: []
 
 <img class="special-img-class" style="width:40%" src="/aboutme.jpeg" alt="Master's Graduation" />
 
-
-## Hey there!  
-
-I'm a researcher curious about the invisible lives of microbes and the rules that govern them, from single cells to entire ecosystems. My work combines field observations, controlled experiments, and a bit of programming magic to explore how microbial communities grow, interact, and adapt across environments.
+Hi! I’m Edo Danilyan, a PhD researcher at the University of Vienna. My work focuses on understanding how microbes grow, interact, and influence the environments they live in. My work combines field observations, controlled experiments, and a bit of programming magic to explore how microbial communities grow, interact, and adapt across environments.
 
 Right now, I’m pursuing my PhD as part of the **FWF Microplanet: Microbiomes Drive Planetary Health** project, where I study microbial biomass and metabolism, particularly in aquatic systems. I spend a good amount of time tinkering with lifescale, running chemostats, culturing microbes, and writing code to make sense of all the data.
+
+Before my PhD, I earned my bachelor’s and master’s degrees in biology from Institut Teknologi Sepuluh Nopember. During that time, I worked on projects ranging from microbial applications in sustainable construction to environmental microbiology. Along the way, I discovered that I enjoyed the process of asking questions as much as finding the answers.
 
 I'm happiest when science meets storytelling, whether it's through thoughtful data visualizations, reproducible code, or simply making complex ideas a bit easier to grasp. I'm a big believer in open science and in building tools that others can learn from, adapt, or even break (and then fix better!).
 
@@ -39,12 +38,8 @@ I’m also passionate about **R programming** and education. I create tutorials 
 
 I’m always open to exciting collaborations and new challenges. If you’re looking to create something amazing, let’s connect! [Reach out](https://edodanilyan.com/#contact), and let’s see where our ideas can take us.  
 
-Where I Worked:
-
-<iframe seamless = "" width = "100%" height = "500" class="shortcode-iframe" src="/leaflet/work_map.html"></iframe>
-
 ## Language
 1. Bahasa Indonesia (Native)
 2. English (Full-professional Proficiency)
-3. German (Baby level)
-4. Japanese (Elementary)
+3. German (I can order coffee and complain about grammar)
+4. Japanese (I can say ‘thank you’ like a pro)
