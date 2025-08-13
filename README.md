@@ -1,9 +1,17 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# My Personal Website
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+This is the source code for my personal academic website, built with the [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic), customized to use the **Satoshi** font and a **custom color palette**.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+## About
+The site showcases my research, publications, projects, and other professional activities. It is deployed via netlify, hosted on github, and uses Hugo for fast, static site generation.
 
-️
+## Customizations
+- **Typography:** Replaced the default theme fonts with [Satoshi](https://www.fontshare.com/fonts/satoshi) for a clean, modern look.
+- **Color Palette:** Modified the theme’s default colors to match my personal branding.
+- **Content Structure:** Personalized sections for research, publications, and projects.
+
+## Structure
+- **content/** – Main content pages (home, publications, blog, projects, etc.)
+- **static/** – Static files such as images and PDFs
+- **config/** – Site configuration files
+- **themes/** – Academic theme files
