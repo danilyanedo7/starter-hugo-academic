@@ -21,7 +21,8 @@ author_notes:
   - []
   - 'Corresponding Author'
 
-date: 2025-04-31T11:32:21+07:00
+date: 2025-04-03T11:32:21+07:00
+publishDate: 2025-04-03T11:32:21+07:00
 doi: "https://dx.doi.org/10.21608/ejabf.2025.423305"
 
 publication_types: ["2"]
