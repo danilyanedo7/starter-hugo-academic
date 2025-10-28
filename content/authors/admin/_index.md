@@ -65,7 +65,7 @@ On this site, you'll find a mix of my scientific work, snapshots from field adve
 
 You can explore everything chronologically or jump straight to the sections on [code](/tag/r/), [science](/tag/research/), or [fieldwork (photography gallery)](https://danilyan.myportfolio.com/), whatever suits your curiosity. Below, you’ll find my experience, recent publications, projects, and tutorials.
 
-### [Learn more about me →](/post/aboutme)
+### [Learn more about me](/post/aboutme)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
 
