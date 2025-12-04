@@ -10,7 +10,7 @@ organizations:
   - name: Universität Wien - Austria
     url: https://cemess.univie.ac.at
 
-bio: Interested in computational biology.
+bio: Interested in data science.
 
 interests:
   - Computational Biology
@@ -24,7 +24,7 @@ interests:
 education:
   courses:
     - course: PhD in Microbiology and Env. Science
-      institution: Universität Wien
+      institution: Centre for Microbiology and Environmental System Science, Universität Wien
       year: 2024-Present
     - course: MSc in Biology
       institution: Institut Teknologi Sepuluh Nopember
@@ -59,11 +59,12 @@ email: ''
 
 highlight_name: true
 ---
-My name is **Edo Danilyan**, but feel free to call me **Edo**. I’m a PhD researcher at the University of Vienna, powered by curiosity (and too much caffeine). 
 
-On this site, you'll find a mix of my scientific work, snapshots from field adventures, and some small but exciting coding projects, mostly in R, sometimes elsewhere. 
+This corner of the internet belongs to someone who can spend an entire evening fixing a missing parenthesis and call it a productive day. Experiments, code, cameras, and questionable life choices all end up here sooner or later. His name’s Edo, and he’s still convinced this all makes sense.
 
-You can explore everything chronologically or jump straight to the sections on [code](/tag/r/), [science](/tag/research/), or [fieldwork (photography gallery)](https://danilyan.myportfolio.com/), whatever suits your curiosity. Below, you’ll find my experience, recent publications, projects, and tutorials.
+Some days it’s a plot that finally makes sense. Other days it’s a random photo. Occasionally something profound appears, though it’s usually accidental.
+
+Things got out of hand here long before anyone started calling it a website. You can follow the trail of [code](/tag/r/), get lost in [science](/tag/research/), or peek into the [fieldwork (photography gallery)](https://danilyan.myportfolio.com/) where mud, microbes, and cameras coexist more peacefully than they should. If anything resonates, great. If not, at least the coffee was worth it.
 
 ### [Learn more about me](/post/aboutme)
 
