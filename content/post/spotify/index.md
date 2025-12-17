@@ -3,7 +3,7 @@ title: "Analyzing My Spotify Playback Activity 2022"
 subtitle: ""
 summary: "This article will include code chunks on how I analyze my Spotify playback pctivity in R language. The code chunks cover the data wrangling and data visualization."
 authors: [admin]
-tags: [Portfolio]
+tags: [Portfolio, r]
 categories: []
 date: 2023-06-10T18:23:23+07:00
 lastmod: 2023-06-10T18:23:23+07:00

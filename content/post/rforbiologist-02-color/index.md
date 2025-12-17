@@ -4,7 +4,7 @@ title: "R tutorial series: Choosing color for data visualization"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [R,dataviz]
+tags: [r,dataviz]
 categories: []
 date: 2025-02-03T22:37:36+01:00
 lastmod: 2025-02-03T22:37:36+01:00

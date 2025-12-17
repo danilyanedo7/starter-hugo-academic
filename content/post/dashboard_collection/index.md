@@ -3,7 +3,7 @@ title: "Dashboard Collection and Presentation Slides Samples"
 subtitle: "Exploratory data analytics using dashboard as a reporting medium and slides I have created for a presentation"
 summary: ""
 authors: [admin]
-tags: [Portfolio, Dashboard]
+tags: [Portfolio, Dashboard, r]
 categories: []
 date: 2023-09-09T17:32:05+07:00
 lastmod: 2023-09-09T17:32:05+07:00
