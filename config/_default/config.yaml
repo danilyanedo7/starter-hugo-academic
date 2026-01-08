@@ -69,3 +69,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+power_ups:
+  hide_published_with: true

@@ -4,16 +4,19 @@ main:
     url: '#about'
     weight: 10
   - name: Blog
-    url: '#posts'
+    url: '/post/'
     weight: 60
+  - name: Experience
+    url: /experience/
+    weight: 15
   - name: Projects
     url: '#projects'
     weight: 20
   - name: Talks
-    url: '#talks'
+    url: '/talks/'
     weight: 30
   - name: Brainy Stuff
-    url: '#publications'
+    url: '/publication/'
     weight: 40
   - name: Let's Talk
     url: '#contact'
