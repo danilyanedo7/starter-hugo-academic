@@ -17,15 +17,12 @@ image:
 projects: []
 ---
 
-## My First R Analysis
 
-Here's some R code that actually runs:
 ```{r}
-# Simple calculation
+
 x <- 1:10
 mean(x)
 
-# Create a simple plot
 plot(x, x^2, 
      main = "X vs X squared",
      xlab = "X", 
