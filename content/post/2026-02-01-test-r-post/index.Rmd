@@ -1,0 +1,37 @@
+---
+title: Test R Post
+author: R Build
+date: '2026-02-01'
+slug: test-r-post
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2026-02-01T21:40:39+01:00'
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+---
+
+## My First R Analysis
+
+Here's some R code that actually runs:
+```{r}
+# Simple calculation
+x <- 1:10
+mean(x)
+
+# Create a simple plot
+plot(x, x^2, 
+     main = "X vs X squared",
+     xlab = "X", 
+     ylab = "X²",
+     col = "blue",
+     pch = 19)
+```
+
+The mean is `r mean(x)` and the plot is generated automatically!
