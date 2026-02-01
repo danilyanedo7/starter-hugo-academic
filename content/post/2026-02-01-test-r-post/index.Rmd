@@ -23,6 +23,7 @@ projects: []
 x <- 1:10
 mean(x)
 
+
 plot(x, x^2, 
      main = "X vs X squared",
      xlab = "X", 
