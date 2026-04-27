@@ -5,7 +5,7 @@ title: "When your family’s survival is the reason you’re in science"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [Thought]
+tags: [Thoughts]
 categories: []
 date: 2025-10-26T09:47:21+07:00
 lastmod: 2025-10-26T09:47:21+07:00

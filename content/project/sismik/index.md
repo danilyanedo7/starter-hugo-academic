@@ -5,7 +5,7 @@ tags:
   - Research
   - Portfolio
   - R
-  - Data Visualization
+  - dataviz
   - Teaching
 date: '2021-02-27T00:00:00Z'
 external_link: ''
