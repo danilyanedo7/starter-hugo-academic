@@ -90,7 +90,7 @@ Let's [connect and chat](/#contact)!
 ### Some Documentations
 
 <figure>
-  <img src="coe_gap_1.jpeg" alt="">
+  <img src="featured.jpeg" alt="">
   <figcaption>Sharing session with high school student in Bondowoso</figcaption>
 </figure>
 
